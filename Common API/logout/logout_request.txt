@@ -1,0 +1,6 @@
+{
+    "channelId": 1,
+    "username": "apitest01",
+    "timestamp": 1560235445653,
+    "signature": "VguqxRVR1cbt/qr5zPdojy8xI1hpMBWEbRdIh6Hst/UbBXzVKUWfXJ5Tk+Mrvu013ejF5WZ7eROJ6dbTY93Lig=="
+}

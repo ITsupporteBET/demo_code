@@ -1,0 +1,335 @@
+{
+    "slotGames": [
+        {
+            "gameID": "diaochan",
+            "english": "HONEY TRAP OF DIAO CHAN",
+            "chinese": "夜戏貂蝉",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "fortune-gods",
+            "english": "FORTUNE GODS",
+            "chinese": "横财神",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "win-win-won",
+            "english": "WIN WIN WON",
+            "chinese": "旺旺旺",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "medusa2",
+            "english": "MEDUSA 2",
+            "chinese": "美杜莎2",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "peas-fairy",
+            "english": "PEAS FAIRY",
+            "chinese": "豌豆精灵",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "fortune-tree",
+            "english": "TREE OF FORTUNE",
+            "chinese": "摇钱树",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "medusa",
+            "english": "MEDUSA1",
+            "chinese": "美杜莎1",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "plushie-frenzy",
+            "english": "Plushie Frenzy",
+            "chinese": "抓抓乐",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "wizdom-wonders",
+            "english": "Wizdom Wonders",
+            "chinese": "巫师之书",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "gem-saviour",
+            "english": "Gem Saviour",
+            "chinese": "宝石侠",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "steam-punk",
+            "english": "Steampunk",
+            "chinese": "蒸汽朋克",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "summon-conquer",
+            "english": "Summon & Conquer",
+            "chinese": "国王的召唤",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "hood-wolf",
+            "english": "Hood vs Wood",
+            "chinese": "逆袭的小红帽",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-08-14"
+        },
+        {
+            "gameID": "hotpot",
+            "english": "Hotpot",
+            "chinese": "麻辣火锅",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-10-29"
+        },
+        {
+            "gameID": "dragon-legend",
+            "english": "Dragon Legend",
+            "chinese": "鱼跃龙门",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-10-29"
+        },
+        {
+            "gameID": "legend-of-hou-yi",
+            "english": "Legend of Hou Yi",
+            "chinese": "后羿射日",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-10-29"
+        },
+        {
+            "gameID": "restaurant-craze",
+            "english": "Restaurant Craze",
+            "chinese": "网红餐厅",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-10-29"
+        },
+        {
+            "gameID": "mr-hallow-win",
+            "english": "Mr Hallow Win",
+            "chinese": "万胜狂欢夜",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-10-29"
+        },
+        {
+            "gameID": "hip-hop-panda",
+            "english": "Hip Hop Panda",
+            "chinese": "嘻哈熊猫",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-11-16"
+        },
+        {
+            "gameID": "prosperity-lion",
+            "english": "Prosperity Lion",
+            "chinese": "舞狮进宝",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-11-22"
+        },
+        {
+            "gameID": "santas-gift-rush",
+            "english": "Santas Gift Rush",
+            "chinese": "圣诞欢乐送",
+            "providerId": "pgsoft",
+            "releaseDate": "2018-11-27"
+        },
+        {
+            "gameID": "gem-saviour-sword",
+            "english": "Gem Saviour Sword",
+            "chinese": "宝石侠大宝剑",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-01-17"
+        },
+        {
+            "gameID": "piggy-gold",
+            "english": "Piggy Gold",
+            "chinese": "金猪报财",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-01-17"
+        },
+        {
+            "gameID": "symbols-of-egypt",
+            "english": "Symbols of Egypt",
+            "chinese": "埃及寻宝",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-02-14"
+        },
+        {
+            "gameID": "ganesha-gold",
+            "english": "Ganesha Gold",
+            "chinese": "象财神",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-03-27"
+        },
+        {
+            "gameID": "three-monkeys",
+            "english": "Three Monkeys",
+            "chinese": "三只猴子",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-04-08"
+        },
+        {
+            "gameID": "jungle-delight",
+            "english": "Jungle Delight",
+            "chinese": "水果丛林",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-04-24"
+        },
+        {
+            "gameID": "tomb-of-treasure",
+            "english": "Tomb of Treasure",
+            "chinese": "摸金校尉",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-05-09"
+        },
+        {
+            "gameID": "wild-inferno",
+            "english": "Wild Inferno",
+            "chinese": "重金摇滚",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-06-18"
+        },
+        {
+            "gameID": "the-great-icescape",
+            "english": "The Great Icescape",
+            "chinese": "冰雪大冲关",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-07-04"
+        },
+        {
+            "gameID": "journey-to-the-wealth",
+            "english": " Journey to the West",
+            "chinese": "嘻游记",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-07-19"
+        },
+        {
+            "gameID": "captains-bounty",
+            "english": "Captain's Bounty",
+            "chinese": "赏金船长",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-07-31"
+        },
+        {
+            "gameID": "double-fortune",
+            "english": "Double Fortune",
+            "chinese": "双囍临门",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-08-14"
+        },
+        {
+            "gameID": "tiki-go",
+            "english": "Tiki Go",
+            "chinese": "块块赢",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-08-14"
+        },
+        {
+            "gameID": "emperors-favour",
+            "english": "Emperors Favour",
+            "chinese": "皇上吉祥",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-08-20"
+        },
+        {
+            "gameID": "leprechaun-riches",
+            "english": "Leprechaun Riches",
+            "chinese": "爱尔兰精灵",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-08-29"
+        },
+        {
+            "gameID": "flirting-scholar",
+            "english": "Flirting Scholar",
+            "chinese": "唐伯虎点秋香",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-09-24"
+        },
+        {
+            "gameID": "ninja-vs-samurai",
+            "english": "Ninja vs Samurai",
+            "chinese": "忍者vs武侍",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-10-17"
+        },
+        {
+            "gameID": "muay-thai-champion",
+            "english": "Muay Thai Champion",
+            "chinese": "拳霸",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-10-31"
+        },
+        {
+            "gameID": "dragon-tiger-luck",
+            "english": "Dragon Tiger Luck",
+            "chinese": "龙虎争霸",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-11-19"
+        },
+        {
+            "gameID": "mahjong-ways",
+            "english": "Mahjong ways",
+            "chinese": "麻将胡了",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-12-03"
+        },
+        {
+            "gameID": "dragon-hatch",
+            "english": "Dragon Hatch",
+            "chinese": "寻龙探宝",
+            "providerId": "pgsoft",
+            "releaseDate": "2019-12-27"
+        },
+        {
+            "gameID": "fortune-mouse",
+            "english": "Fortune Mouse",
+            "chinese": "鼠鼠福福",
+            "providerId": "pgsoft",
+            "releaseDate": "2020-02-10"
+        },
+        {
+            "gameID": "reel-love",
+            "english": "Reel Love",
+            "chinese": "亲爱的",
+            "providerId": "pgsoft",
+            "releaseDate": "2020-03-06"
+        },
+        {
+            "gameID": "shaolin-soccer",
+            "english": "Shaolin Soccer",
+            "chinese": "少林足球",
+            "providerId": "pgsoft",
+            "releaseDate": "2020-03-27"
+        },
+        {
+            "gameID": "candy-burst",
+            "english": "Candy Burst",
+            "chinese": "糖果连连爆",
+            "providerId": "pgsoft",
+            "releaseDate": "2020-03-27"
+        },
+        {
+            "gameID": "cai-shen-wins",
+            "english": "Caishen Wins",
+            "chinese": "赢财神",
+            "providerId": "pgsoft",
+            "releaseDate": "2020-03-27"
+        }
+    ],
+    "status": 200,
+    "apiVersion": "1.3.91"
+}

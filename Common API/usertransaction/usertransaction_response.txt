@@ -1,0 +1,83 @@
+{
+    "count": 6,
+    "remainingVisits": 59,
+    "status": 200,
+    "transactions": [
+        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 1,
+            "roundNo": "B18-200327155100",
+            "transBeforeBalance": 1234567.89,
+            "transBalance": -7,
+            "transAfterBalance": 1234560.89,
+            "transactionId": "5e7db073a9938c41bce00ec3",
+            "time": "2020-03-27T07:51:15.285Z",
+            "subChannelId": 0
+        },
+        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 2,
+            "roundNo": "B18-200327155100",
+            "transBeforeBalance": 1234560.89,
+            "transBalance": 0,
+            "transAfterBalance": 1234560.89,
+            "transactionId": "5e7db08fa9938c41bce00eca",
+            "time": "2020-03-27T07:51:43.719Z",
+            "subChannelId": 0
+        },        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 23,
+            "roundNo": "B18-200327155100",
+            "transBeforeBalance": 1234560.89,
+            "transBalance": 3,
+            "transAfterBalance": 1234563.89,
+            "transactionId": "5e81a6faa9938c41bce00f68",
+            "time": "2020-03-27T07:51:43.719Z",
+            "subChannelId": 0,
+            "bonusId": 23,
+            "bonusName": "Lucky red envelope"
+        },
+        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 24,
+            "roundNo": "B18-200327155100",
+            "transBeforeBalance": 1234563.89,
+            "transBalance": 4,
+            "transAfterBalance": 1234567.89,
+            "transactionId": "5e81a704a9938c41bce00f6b",
+            "time": "2020-03-27T07:51:43.719Z",
+            "subChannelId": 0,
+            "bonusId": 24,
+            "bonusName": "Limited red envelope"
+        },
+        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 14,
+            "roundNo": "test",
+            "transBeforeBalance": 1234567.89,
+            "transBalance": 100,
+            "transAfterBalance": 1234667.89,
+            "transactionId": "5e82b25da9938c41bce00f73",
+            "time": "2020-03-31T03:00:45.550Z",
+            "subChannelId": 0
+        },
+        {
+            "userId": 127001,
+            "username": "apitest01",
+            "tradeType": 15,
+            "roundNo": "test",
+            "transBeforeBalance": 1234667.89,
+            "transBalance": -100,
+            "transAfterBalance": 1234567.89,
+            "transactionId": "5e82b262a9938c41bce00f76",
+            "time": "2020-03-31T03:00:50.454Z",
+            "subChannelId": 0
+        }
+    ],
+    "apiVersion": "1.3.91"
+}

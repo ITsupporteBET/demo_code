@@ -1,0 +1,8 @@
+{
+    "channelId": 1,
+    "username": "apitest01",
+    "timestamp": 1585626716213,
+    "signature": "BS6DbGWqnWqgcvB1XNUvrh7Rq0JiqK4ScAcYTw2vcGMwX/08rIyJF3+BYpz6dl+hIybtC4w47HGcYdlS9rBNUQ==",
+    "money": -100000,
+    "rechargeReqId": "testrecharge"
+}

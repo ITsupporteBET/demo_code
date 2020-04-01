@@ -1,0 +1,67 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 580,
+    "type": 2,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "c548fec8259eb9491b91343df04ebfaf",
+    "detail": {
+        "tableCode": "D18",
+        "tableType": 2,
+        "tableSubType": 0,
+        "srcResults": [
+            46,
+            13
+        ],
+        "results": [
+            10,
+            12,
+            15,
+            16,
+            19
+        ],
+        "betList": [
+            {
+                "betType": 10,
+                "betMoney": 100,
+                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+                "payout": 200
+            },
+            {
+                "betType": 13,
+                "betMoney": 100,
+                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+                "payout": 0
+            },
+            {
+                "betType": 14,
+                "betMoney": 100,
+                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+                "payout": 0
+            },
+            {
+                "betType": 16,
+                "betMoney": 100,
+                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+                "payout": 190
+            },
+            {
+                "betType": 19,
+                "betMoney": 100,
+                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+                "payout": 190
+            }
+        ],
+        "roundCode": "D18-200327155224",
+        "betTime": 1585295557837,
+        "totalBet": 500,
+        "validBet": 500,
+        "payout": 580,
+        "payoutTime": 1585295575037
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295575072,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "m1sCMdaDMs44hbkWBjrmOK3SAUZXzSae3qSYoOgIAYI5/UlyCGHjPE9u7yvfKAfQQpwq9wjrnwmQrW1CgP40kmVcJeeDZX59ZK242AqeYr02r2D1rhZcdehNIP3+ec4ATqc6qw9SMM5y0WJKNUTz4rzakaL2jgJdbS6Cs034xNg="
+}

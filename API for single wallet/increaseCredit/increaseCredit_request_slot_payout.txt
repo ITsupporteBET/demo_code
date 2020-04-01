@@ -1,0 +1,34 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 2.4,
+    "type": 2,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "c9a3cb4c4b8c29ff24c094ce78246f71",
+    "detail": {
+        "tableCode": "65",
+        "tableType": 5,
+        "tableSubType": 0,
+        "srcResults": null,
+        "results": [],
+        "betList": [
+            {
+                "betType": 5392933,
+                "betMoney": 6,
+                "seqNo": "be8e5e5968d0b96e928bc4ea64e483d3",
+                "payout": 2.4
+            }
+        ],
+        "roundCode": "65-5392933",
+        "betTime": 1585295685281,
+        "totalBet": 6,
+        "validBet": 6,
+        "payout": 2.4,
+        "payoutTime": 1585295685281
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295685807,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "Mud89o4ZW8x+Jc4UHMsqn2vMGyYwhpPYIIK88mv3KkR/bscZnhV24oWSRXmUvKkdU0Nr7PrZFcUh56NC9KnUHUM9D/0OHNKwbYegQPjHnC/1UFBsSqEkFYyFR3UBn17QwTH3SdpMoegR4ClQxomU3L4PlOUYwhQd3ftvdVdeXFY="
+}

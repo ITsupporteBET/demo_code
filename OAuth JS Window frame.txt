@@ -1,0 +1,19 @@
+<script type="text/javascript">
+if(window.AndroidBridge)
+{
+// native -android app
+window.AndroidBridge.closeWebview();
+}
+else if(window.webkit)
+{
+// native -ios app
+window.webkit.messageHandlers.closeOauthLogin.postMessage(null);
+}
+else
+{
+// h5
+parent.postMessage({
+msg: "closeOauthLogin"
+}, "*");
+}
+<script>

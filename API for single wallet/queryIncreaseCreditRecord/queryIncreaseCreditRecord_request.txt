@@ -1,0 +1,11 @@
+{
+    "channelId": 1,
+    "username": "apitest01",
+    "querySeqNo": "710ee3149a0137387c7f0a509c54c0e0,cd9000b94b66653b6f8b13bb04096cfb",
+    "roundCode": "DMM100-200304093832",
+    "event": "queryIncreaseCreditRecord",
+    "timestamp": 1585639266541,
+    "sessionToken": "18da185dd4d82367dcc67f655eede28a",
+    "seqNo": "5a5fa6b5649fced5679fc42eed3fd843",
+    "signature": "H3nnc57UC/bH3SPrzLJhuZHeJQ+9ihwXAM3jNB3tOvB9/5Uerll4EuMYDInyOwJ/D8X9xHWGQJTNzwu5rTkGEYjQcTKkSPKbKOdJKc9GxXJNOtcn+gld75Ir4FEuCXCKoidXZ05EOmt8fpuZCfrX2x2QC+Ef71akRs1SEszZAkY="
+}

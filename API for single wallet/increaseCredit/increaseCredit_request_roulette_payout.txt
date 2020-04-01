@@ -1,0 +1,126 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 0,
+    "type": 2,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "1556826c114073d58fb699d55d1c4e97",
+    "detail": {
+        "tableCode": "R18",
+        "tableType": 3,
+        "tableSubType": 0,
+        "srcResults": [
+            24
+        ],
+        "results": [
+            200,
+            213,
+            212,
+            210,
+            202,
+            207,
+            206,
+            206,
+            203,
+            203,
+            208,
+            201,
+            201,
+            201
+        ],
+        "betList": [
+            {
+                "betType": 205,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "0,1,2,3"
+            },
+            {
+                "betType": 209,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0
+            },
+            {
+                "betType": 211,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0
+            },
+            {
+                "betType": 214,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0
+            },
+            {
+                "betType": 200,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1"
+            },
+            {
+                "betType": 204,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "0,1,2"
+            },
+            {
+                "betType": 201,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,2"
+            },
+            {
+                "betType": 203,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,2,4,5"
+            },
+            {
+                "betType": 206,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,2,3,4,5,6"
+            },
+            {
+                "betType": 202,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,2,3"
+            },
+            {
+                "betType": 207,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,4,7,10,13,16,19,22,25,28,31,34"
+            },
+            {
+                "betType": 208,
+                "betMoney": 20,
+                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+                "payout": 0,
+                "number": "1,2,3,4,5,6,7,8,9,10,11,12"
+            }
+        ],
+        "roundCode": "R18-200327155358",
+        "betTime": 1585295659766,
+        "totalBet": 240,
+        "validBet": 240,
+        "payout": 0,
+        "payoutTime": 1585295671158
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295671187,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "d1+sNQJz+G+P5f4JbDr1WoEXZheob8nT6/QxdVCJVsDSWIeruqyRQJbnMOfq4XsFsBbi2QBWLyN5i48WAs2WfsQxZw0yeknlWjGJpZ6Lnpzf3bQMbdpLXMgGdus2+FJ1U20BUiHoHBA2LlOuLTy+aSOUqi4Z5gyazD0r6MoeNCI="
+}

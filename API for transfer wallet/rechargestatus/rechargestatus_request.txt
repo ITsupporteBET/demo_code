@@ -1,0 +1,5 @@
+{
+    "channelId": 1,
+    "signature": "T5ie27CDkWjS2tO/FPFazIS8PHLB3g6cbPTh7IIC/VPjPeOd7KeKD91wPslBMyRix6px27XTz7CJ6k7ky5i/+w==",
+    "rechargeReqId": "testrecharge"
+}

@@ -1,0 +1,31 @@
+{
+    "count": 3,
+    "tableCode": "B1",
+    "tableType": 1,
+    "tableSubType": 0,
+    "luzhuList": [
+        [
+            80
+        ],
+        [
+            68
+        ],
+        [
+            60
+        ]
+    ],
+    "luzhuStat": [
+        [
+            "banker"
+        ],
+        [
+            "draw"
+        ],
+        [
+            "player"
+        ]
+    ],
+    "remainingVisits": 299,
+    "status": 200,
+    "apiVersion": "1.3.42"
+}

@@ -1,0 +1,17 @@
+CloseableHttpClient client = HttpClients.createDefault();//create
+HTTP client object HttpPost httpPost = new HttpPost("request ip URL");
+//set POST URL address
+ArrayList <NameValuePair> params = new ArrayList<NameValuePair>();
+//set parameter value
+params.add(new BasicNameValuePair("username", “xxx”)); //set parameter value
+httpPost.setEntity(new UrlEncodedFormEntity(params)); // url encode
+CloseableHttpResponse response = client.execute(httpPost); //executeHTTP POST request
+//get the return POST response result
+BufferedReader reader = new BufferedReader(newInputStreamReader(response.getEntity().getContent()));
+StringBuilder builder = new StringBuilder(); String line = "";
+while( (line = reader.readLine()) != null) {
+builder.append(line);
+}
+ObjectMapper mapper = new ObjectMapper();
+UserInfoResp resp = mapper.readValue(builder.toString(),UserInfoResp.class);//Convert JSON string to object
+System.out.println(resp.getLoginname());//print value

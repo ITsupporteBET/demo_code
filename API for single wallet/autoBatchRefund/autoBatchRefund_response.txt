@@ -1,0 +1,30 @@
+{
+    "seqNo": "614537a9c6ad36e2989f5eeb8394f3dd",
+    "event": "autoBatchRefund",
+    "timestamp": 1585680900124,
+    "status": 200,
+    "refundResultList": [
+        {
+            "username": "apitest01",
+            "roundCode": "B18-200401023908",
+            "refundTotalMoney": 700,
+            "sucRefundSeqNoList": [
+                {
+                    "seqNo": "4d9287414d1b2b96181d1de48966085a",
+                    "status": 209
+                }
+            ]
+        },
+        {
+            "username": "apitest01",
+            "roundCode": "B18-200401023824",
+            "refundTotalMoney": 800,
+            "sucRefundSeqNoList": [
+                {
+                    "seqNo": "00671b093ccbdf90147f3cc49d6f1558",
+                    "status": 209
+                }
+            ]
+        }
+    ]
+}

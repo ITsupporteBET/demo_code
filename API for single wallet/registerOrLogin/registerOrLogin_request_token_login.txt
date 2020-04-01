@@ -1,0 +1,15 @@
+{
+    "username": "apitest01",
+    "password": "hidden",
+    "channelId": 1,
+    "currency": "CNY",
+    "ip": "127.0.0.1",
+    "eventType": 4,
+    "accessToken": "TestaccessTokenAPILogin04",
+    "platform": 3,
+    "event": "registerOrLogin",
+    "timestamp": 1585204175170,
+    "sessionToken": "cff4e7e06fc7a21beed03a45e596da17",
+    "seqNo": "9efa93339d01d10e6e0dbd1d4e1ea060",
+    "signature": "NS13xFRluGkhG8DzsCBQZSyRaEU5bDOEcJAirSlnSf2J+ApqjHEEH19CCDWWJjhfvv6q6ZpLsfVYvgblsnm0/Q=="
+}

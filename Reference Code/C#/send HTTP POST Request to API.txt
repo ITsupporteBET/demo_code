@@ -1,0 +1,8 @@
+public class UserInfoResp｛public string username { get; set; } ｝//define model
+var client = new WebClient();//create webClient object
+var parameters = new NameValueCollection();// using NameValueCollection to package parameter value
+parameters["username"] ＝“xx” //Set request value
+var response = client.UploadValues("request ip ", parameters);//send POST request to API server
+var jsonString = Encoding.Default.GetString(response);// read JSON data
+UserInfoResp resp = JsonConvert.DeserializeObject<UserInfoResp>(jsonString); //convert json to object
+Console.WriteLine(resp.status);//print value

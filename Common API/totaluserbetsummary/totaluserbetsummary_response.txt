@@ -1,0 +1,81 @@
+{
+    "results": [
+        {
+            "userName": "test01",
+            "games": [
+                {
+                    "gameType": 1,
+                    "gameName": "baccarat",
+                    "totalBet": 150,
+                    "totalEffectiveBet": 150,
+                    "totalBalance": 110,
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "userName": "apitest01",
+            "games": [
+                {
+                    "gameType": 1,
+                    "gameName": "baccarat",
+                    "totalBet": 7,
+                    "totalEffectiveBet": 7,
+                    "totalBalance": 5.46,
+                    "count": 1
+                },
+                {
+                    "gameType": 2,
+                    "gameName": "dragon-tiger",
+                    "totalBet": 500,
+                    "totalEffectiveBet": 500,
+                    "totalBalance": -80,
+                    "count": 1
+                },
+                {
+                    "gameType": 3,
+                    "gameName": "roulette",
+                    "totalBet": 240,
+                    "totalEffectiveBet": 240,
+                    "totalBalance": 240,
+                    "count": 1
+                },
+                {
+                    "gameType": 4,
+                    "gameName": "sic-bo",
+                    "totalBet": 900,
+                    "totalEffectiveBet": 900,
+                    "totalBalance": 900,
+                    "count": 1
+                },
+                {
+                    "gameType": 5,
+                    "gameName": "slot",
+                    "totalBet": 6,
+                    "totalEffectiveBet": 6,
+                    "totalBalance": -18,
+                    "count": 1
+                },
+                {
+                    "gameType": 8,
+                    "gameName": "niu niu",
+                    "totalBet": 1800,
+                    "totalEffectiveBet": 600,
+                    "totalBalance": -370,
+                    "count": 1
+                },
+                {
+                    "gameType": 23,
+                    "gameName": "fortune-wheel",
+                    "totalBet": 1100,
+                    "totalEffectiveBet": 1100,
+                    "totalBalance": 725,
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "remainingVisit": 59,
+    "status": 200,
+    "apiVersion": "1.3.91"
+}

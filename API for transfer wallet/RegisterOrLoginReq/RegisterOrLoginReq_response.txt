@@ -1,0 +1,6 @@
+{
+    "subChannelId": 0,
+    "accessToken": "TestaccessTokenAPILogin04",
+    "status": 200,
+    "username": "apitest01"
+}

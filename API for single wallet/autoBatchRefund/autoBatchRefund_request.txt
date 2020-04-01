@@ -1,0 +1,25 @@
+{
+    "channelId": 578,
+    "lastStartProcessTime": 1585680599313,
+    "refundThreshold": 10001,
+    "sessionToken": "99dfd785c4e932915c6a85d3604641dc",
+    "seqNo": "614537a9c6ad36e2989f5eeb8394f3dd",
+    "batchRefundList": [
+        {
+            "seqNo": "4d9287414d1b2b96181d1de48966085a",
+            "username": "apitest01",
+            "roundCode": "B18-200401023908",
+            "refundMoney": 700
+        },
+        {
+            "seqNo": "00671b093ccbdf90147f3cc49d6f1558",
+            "username": "apitest01",
+            "roundCode": "B18-200401023824",
+            "refundMoney": 800
+        }
+    ],
+    "currency": "CNY",
+    "event": "autoBatchRefund",
+    "timestamp": 1585680899850,
+    "signature": "J/iM4658LPIiAi38YVIC5dMYEeDuU18B731tmhzXOS0C9Cvgz8cWTjp6FbI3QP8R3iLxkThWVdHRQRbw8nJV5g=="
+}

@@ -1,0 +1,14 @@
+（ASP.NET WEB API framework 4.*）-（Referial full source code）
+[HttpPost]//to set this API is using POST method
+public HttpResponseMessage RegisterOrLogin()//return HTTP Response Stream
+Stream stream =
+HttpContext.Current.Request.GetBufferedInputStream();//get HTTP input
+HTTP input stream StreamReader reader = new StreamReader(stream);//streamReaderread stream
+string jsonPost = reader.ReadToEnd(); //read stream
+RegisterOrLoginResp resp = new RegisterOrLoginResp(); //build model object
+if (jsonPost.Contains("RegisterOrLoginReq"))//if is RegisterOrLoginReq , handle user authentication request //convert string to object
+RegisterOrLoginReq req =
+JsonConvert.DeserializeObject <RegisterOrLoginReq> (jsonPost);//read object value
+if (req.username == xx && req.password == xx) ……….. return Request.CreateResponse(resp);//return POST response (JSON data)
+else if (jsonPost.Contains("UserInfo"))//handle user info request
+// business logic –recharge and etc

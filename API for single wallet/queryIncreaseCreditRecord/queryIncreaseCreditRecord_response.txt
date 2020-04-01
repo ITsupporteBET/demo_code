@@ -1,0 +1,31 @@
+{
+    "seqNo": "5a5fa6b5649fced5679fc42eed3fd843",
+    "event": "queryIncreaseCreditRecord",
+    "timestamp": 1585639266541,
+    "username": "apitest01",
+    "creditRecord": [
+        {
+            "querySeqNo": "710ee3149a0137387c7f0a509c54c0e0",
+            "type": 1,
+            "username": "apitest01",
+            "roundCode": "DMM100-200304093832",
+            "status": 200,
+            "creditTime": 1585194721,
+            "moneyBefore": 1234567.89,
+            "moneyAfter": 1234517.89,
+            "money": -50
+        },
+        {
+            "querySeqNo": "cd9000b94b66653b6f8b13bb04096cfb",
+            "type": 2,
+            "username": "apitest01",
+            "roundCode": "DMM100-200304093832",
+            "status": 4025,
+            "creditTime": 1585194721,
+            "moneyBefore": 1234517.89,
+            "moneyAfter": 1234617.89,
+            "money": 100
+        }
+    ],
+    "status": 200
+}

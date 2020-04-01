@@ -1,0 +1,20 @@
+（JAVA SPRING WEB API 4.*）-（Refer full source code）
+@RequestMapping(value="/login", method = RequestMethod.POST)////API using POST method
+public ResponseEntity <RegisterOrLoginResp> ValidateLoginInfo
+(HttpServletRequest request, HttpServletResponse response) { // user login verify function
+InputStream reader = request.getInputStream();//getHTTP input stream
+HTTP input stream BufferedReader br =new BufferedReader(new
+InputStreamReader(reader));
+//usingstream // convert stream to json string
+StringBuilder sb= new StringBuilder();
+String jsonString = "";
+while((jsonString = br.readLine()) != null) {
+sb.append(jsonString);
+}
+ObjectMapper mapper = new ObjectMapper();//convert JSON to object.
+RegisterOrLoginReq req = mapper.readValue(jsonString,RegisterOrLoginReq.class); //convert to object.
+RegisterOrLoginResp resp = new RegisterOrLoginResp();//build returnrequest object
+if （req.getUsername() == xx && req.getPassword() == xx）{...}
+resp.setStatus(200);
+//Set object parameter values
+return new ResponseEntity(resp,HttpStatus.OK);// return POST response

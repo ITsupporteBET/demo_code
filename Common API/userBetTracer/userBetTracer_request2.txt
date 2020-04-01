@@ -1,0 +1,6 @@
+{
+    "betHistoryId": "5cff2672115fd35cb4b881c1",
+    "channelId": 1,
+    "timestamp": 1560241055821,
+    "signature": "i9j9bEi8HME4qTHLZChDm6ohgku4V2mc+PXvRIXN4l7dsYkvCk8dA5TY8zSpjClAs1JzWJermKsTi6ZjRCRPHQ=="
+}

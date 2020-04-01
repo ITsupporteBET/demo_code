@@ -1,0 +1,11 @@
+{
+    "cmd": "UserInfo",
+    "money": 1234567.89,
+    "username": "apitest01",
+    "channelId": 1,
+    "subChannelId": 0,
+    "timestamp": 1585194721,
+    "userId": 127001,
+    "ip": "127.0.0.1",
+    "signature": "BNuTChVN+bnnhvrz3FD4a5qWnLNfRgo1NeZFnDHKUoJBQVMxNBCoFZabh/iCI3Ue0lPlZ5X5MYLV6J/nGzuRdg=="
+}

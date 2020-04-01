@@ -1,0 +1,5 @@
+{
+    "path": "http://127.0.0.1:50009/userBetTracer.html?userName=apitest01&channelId=1&roundCode=SPT1-190611115616&lang=en_us",
+    "status": 200,
+    "apiVersion": "1.3.42"
+}

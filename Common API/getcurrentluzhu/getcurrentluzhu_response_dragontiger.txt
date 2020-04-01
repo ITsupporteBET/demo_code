@@ -1,0 +1,34 @@
+{
+    "count": 3,
+    "tableCode": "D1",
+    "tableType": 2,
+    "tableSubType": 0,
+    "luzhuList": [
+        [
+            51,
+            43
+        ],
+        [
+            45,
+            51
+        ],
+        [
+            51,
+            51
+        ]
+    ],
+    "luzhuStat": [
+        [
+            "tiger"
+        ],
+        [
+            "dragon"
+        ],
+        [
+            "draw"
+        ]
+    ],
+    "remainingVisits": 299,
+    "status": 200,
+    "apiVersion": "1.3.42"
+}

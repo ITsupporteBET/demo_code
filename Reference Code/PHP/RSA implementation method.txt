@@ -1,0 +1,14 @@
+RSA PHP URL：https://github.com/phpseclib/phpseclib/tree/1.0
+// private Key encrypt
+$rsa = new Crypt_RSA();
+$rsa→loadKey(xxx）;//xxx private key
+$rsa→setSignatureMode(CRYPT_RSA_SIGNATURE_PKCS1);
+$rsa→setHash("md5");
+$signature = $rsa→sign($plaintext);
+echo base64_encode($signature);
+// public Key verify
+$rsa = new Crypt_RSA();
+$rsa->loadKey('publickey');
+$rsa→setSignatureMode(CRYPT_RSA_SIGNATURE_PKCS1);
+$rsa→setHash("md5");
+echo $rsa->verify($plaintext, base64_decode($signature)) ? 'verified' : 'unverified';

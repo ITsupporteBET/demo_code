@@ -1,0 +1,5 @@
+{
+    "channelId": 1,
+    "timestamp": 1585635430607,
+    "signature": "ghD+lcoYdWMvSOxrDclCYqgMtlNecVvtEPx5I0FcCMSaW3sEASf6fhpZFcGI8N4UZqN/cDCUmnYUjGXCAs4nhKWcgy3OC6d2G5CAm/BX8mlM3cwfq5gEANKVhof6EnCKH0zwbW95bNFBhDDH2aCUUyxro9bRcfKVFJ72M70CUPc="
+}

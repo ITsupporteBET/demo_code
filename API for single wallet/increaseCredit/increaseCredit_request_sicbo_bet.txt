@@ -1,0 +1,60 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": -900,
+    "type": 1,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "a9d5e31a201845a2af329614ce8598bf",
+    "detail": {
+        "tableCode": "S18",
+        "tableType": 4,
+        "tableSubType": 0,
+        "roundCode": "S18-200327155259",
+        "betTime": 1585295604934,
+        "betList": [
+            {
+                "betType": 101,
+                "betMoney": 100
+            },
+            {
+                "betType": 102,
+                "betMoney": 100
+            },
+            {
+                "betType": 109,
+                "betMoney": 100
+            },
+            {
+                "betType": 116,
+                "betMoney": 100
+            },
+            {
+                "betType": 133,
+                "betMoney": 100
+            },
+            {
+                "betType": 139,
+                "betMoney": 100
+            },
+            {
+                "betType": 154,
+                "betMoney": 100
+            },
+            {
+                "betType": 155,
+                "betMoney": 100
+            },
+            {
+                "betType": 156,
+                "betMoney": 100
+            }
+        ],
+        "totalBet": 900,
+        "validBet": 0
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295605004,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "ac8ThhoG3KVVvw8WSuodKusuBj3OdjWcbuwazJ42BBtBfuy+dZDNSQLCce0W5OHmefWNAqGckSbfrs81IbJ5LL09PTgNU+IB9Ucj6TbdDcgT3HNJk6Tx6vP1L4aCGxbfQ4WWLypz83wt4xngEwWjwqzHHGQL4LbnJ3oMm3JRfUg="
+}

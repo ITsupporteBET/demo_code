@@ -1,0 +1,16 @@
+{
+    "seqNo": "2e0aa018982e87fdebb30bfd78cc67a3",
+    "event": "refundSingleWallet",
+    "timestamp": 1585188345,
+    "username": "apitest01",
+    "moneyAfter": 116.85,
+    "moneyBefore": 16.85,
+    "refundMoney": 100,
+    "resultList": [
+        {
+            "refundSeqNo": "ea8dcd4c12a86872cd69bd11e68e3c54",
+            "status": 200
+        }
+    ],
+    "status": 200
+}

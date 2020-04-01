@@ -1,0 +1,5 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "signature": "FVXroBHYjnRqSJwbYYsfaV9RduMVg1L/5KAPnFW7iSgDSKF2iZrVW+xl9F3oKypUwgjm38JSCHgQWUrFxI0QGA=="
+}

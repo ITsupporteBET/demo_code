@@ -1,0 +1,678 @@
+{
+    "betHistories": [
+        {
+            "gameType": 1,
+            "gameName": "baccarat",
+            "betMap": [
+                {
+                    "betType": 70,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 80,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 81,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 83,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 86,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 88,
+                    "betMoney": 10
+                }
+            ],
+            "bet": 60,
+            "roundNo": "BPT1-200326143006",
+            "payout": 39.5,
+            "payoutDetail": {
+                "80": 19.5,
+                "81": 20
+            },
+            "judgeResult": [
+                80,
+                71,
+                82,
+                63,
+                81
+            ],
+            "playerCards": [
+                46,
+                12
+            ],
+            "playerResult": 0,
+            "bankerCards": [
+                41,
+                42
+            ],
+            "bankerResult": 9,
+            "payoutWithoutholding": 39.5,
+            "createTime": 1585204222,
+            "payoutTime": 1585204236,
+            "betHistoryId": "5e7c4bfe3a64af25f0728746",
+            "validBet": 60,
+            "balance": -20.5,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 1,
+            "gameName": "baccarat",
+            "betMap": [
+                {
+                    "betType": 60,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 63,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 66,
+                    "betMoney": 10
+                }
+            ],
+            "bet": 30,
+            "roundNo": "B18-200326155846",
+            "payout": 0,
+            "payoutDetail": {},
+            "judgeResult": [
+                80,
+                70,
+                83,
+                62
+            ],
+            "playerCards": [
+                38,
+                47,
+                23
+            ],
+            "playerResult": 1,
+            "bankerCards": [
+                50,
+                35,
+                0
+            ],
+            "bankerResult": 2,
+            "payoutWithoutholding": 0,
+            "createTime": 1585209552,
+            "payoutTime": 1585209568,
+            "betHistoryId": "5e7c60d03a64af25f07287a8",
+            "validBet": 30,
+            "balance": -30,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 2,
+            "gameName": "dragon-tiger",
+            "betMap": [
+                {
+                    "betType": 10,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 13,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 16,
+                    "betMoney": 10
+                }
+            ],
+            "bet": 30,
+            "roundNo": "D18-200326160025",
+            "payout": 20.5,
+            "payoutDetail": {
+                "13": 20.5
+            },
+            "judgeResult": [
+                11,
+                13,
+                14,
+                17,
+                18
+            ],
+            "dragonCard": 32,
+            "tigerCard": 48,
+            "payoutWithoutholding": 20.5,
+            "createTime": 1585209641,
+            "payoutTime": 1585209733,
+            "betHistoryId": "5e7c61293a64af25f07287ab",
+            "validBet": 30,
+            "balance": -9.5,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 3,
+            "gameName": "sic-bo",
+            "betMap": [
+                {
+                    "betType": 101,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 102,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 116,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 133,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 139,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 154,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 155,
+                    "betMoney": 10,
+                    "betDice": [
+                        1,
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "betType": 156,
+                    "betMoney": 10,
+                    "betDice": [
+                        1,
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "bet": 80,
+            "roundNo": "S18-200326161346",
+            "payout": 120,
+            "payoutDetail": {
+                "101": 20,
+                "102": 20,
+                "139": 20,
+                "154": 60
+            },
+            "judgeResult": [
+                130,
+                150,
+                151,
+                154,
+                136,
+                138,
+                139,
+                102,
+                101,
+                156
+            ],
+            "allDices": [
+                5,
+                6,
+                3
+            ],
+            "payoutWithoutholding": 120,
+            "createTime": 1585210454,
+            "payoutTime": 1585210468,
+            "betHistoryId": "5e7c6456d4fa426cd7a3e7cf",
+            "validBet": 80,
+            "balance": 40,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 4,
+            "gameName": "roulette",
+            "betMap": [
+                {
+                    "betType": 205,
+                    "betMoney": 1,
+                    "betNumber": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "betType": 209,
+                    "betMoney": 1,
+                    "betNumber": [
+                        1,
+                        3,
+                        5,
+                        7,
+                        9,
+                        12,
+                        14,
+                        16,
+                        18,
+                        19,
+                        21,
+                        23,
+                        25,
+                        27,
+                        30,
+                        32,
+                        34,
+                        36
+                    ]
+                },
+                {
+                    "betType": 211,
+                    "betMoney": 1,
+                    "betNumber": [
+                        1,
+                        3,
+                        5,
+                        7,
+                        9,
+                        11,
+                        13,
+                        15,
+                        17,
+                        19,
+                        21,
+                        23,
+                        25,
+                        27,
+                        29,
+                        31,
+                        33,
+                        35
+                    ]
+                },
+                {
+                    "betType": 214,
+                    "betMoney": 1,
+                    "betNumber": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18
+                    ]
+                },
+                {
+                    "betType": 200,
+                    "betMoney": 1,
+                    "betNumber": [
+                        1
+                    ]
+                },
+                {
+                    "betType": 204,
+                    "betMoney": 1,
+                    "betNumber": [
+                        0,
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "betType": 201,
+                    "betMoney": 1,
+                    "betNumber": [
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "betType": 203,
+                    "betMoney": 1,
+                    "betTypeInterval": "0,0",
+                    "betNumber": [
+                        1,
+                        2,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "betType": 206,
+                    "betMoney": 1,
+                    "betTypeInterval": "0",
+                    "betNumber": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "betType": 202,
+                    "betMoney": 1,
+                    "betTypeInterval": "0",
+                    "betNumber": [
+                        1,
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "betType": 207,
+                    "betMoney": 1,
+                    "betTypeInterval": "0",
+                    "betNumber": [
+                        1,
+                        4,
+                        7,
+                        10,
+                        13,
+                        16,
+                        19,
+                        22,
+                        25,
+                        28,
+                        31,
+                        34
+                    ]
+                },
+                {
+                    "betType": 208,
+                    "betMoney": 1,
+                    "betTypeInterval": "0",
+                    "betNumber": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12
+                    ]
+                }
+            ],
+            "bet": 12,
+            "roundNo": "R18-200326162241",
+            "payout": 7,
+            "payoutDetail": {
+                "211": 2,
+                "214": 2,
+                "208:0": 3
+            },
+            "judgeResult": [
+                200,
+                214,
+                211,
+                210,
+                202,
+                207,
+                206,
+                206,
+                203,
+                203,
+                203,
+                203,
+                208,
+                201,
+                201,
+                201,
+                201
+            ],
+            "number": 11,
+            "payoutWithoutholding": 7,
+            "createTime": 1585210983,
+            "payoutTime": 1585211003,
+            "betHistoryId": "5e7c6667d4fa426cd7a3e80b",
+            "validBet": 12,
+            "balance": -5,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 5,
+            "gameName": "65",
+            "betMap": [
+                {
+                    "betType": 5392933,
+                    "betMoney": 6
+                }
+            ],
+            "bet": 6,
+            "roundNo": "65-5392933",
+            "payout": 24,
+            "payoutDetail": {
+                "5392933": 2.4,
+                "5392934": 21.6
+            },
+            "payoutWithoutholding": 24,
+            "createTime": 1585295685,
+            "payoutTime": 1585295688,
+            "betHistoryId": "5e7db1450302d140238c46e1",
+            "validBet": 6,
+            "balance": 18,
+            "username": "a011",
+            "userId": 6428,
+            "platform": 3
+        },
+        {
+            "gameType": 7,
+            "gameName": "blockchain-baccarat",
+            "betMap": [
+                {
+                    "betType": 60,
+                    "betMoney": 100
+                }
+            ],
+            "bet": 100,
+            "roundNo": "15354353392694-0",
+            "payout": 200,
+            "payoutDetail": {
+                "60": 200
+            },
+            "judgeResult": [],
+            "payoutWithoutholding": 200,
+            "createTime": 1569567550,
+            "payoutTime": 1569567550,
+            "betHistoryId": "5d8db33e4bbf7311d8991dd1",
+            "validBet": 100,
+            "balance": 100,
+            "username": "apitest01",
+            "userId": 7662,
+            "platform": 3
+        },
+
+        {
+            "gameType": 8,
+            "gameName": "niu niu",
+            "betMap": [
+                {
+                    "betType": 301,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 302,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 303,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 304,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 305,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 306,
+                    "betMoney": 100
+                }
+            ],
+            "bet": 600,
+            "roundNo": "NN18-200326162951",
+            "payout": 2465,
+            "payoutDetail": {
+                "301": 195,
+                "302": 690,
+                "303": 195,
+                "304": 595,
+                "305": 195,
+                "306": 595
+            },
+            "judgeResult": [
+                19,
+                33,
+                28,
+                22,
+                51,
+                36,
+                47,
+                31,
+                23,
+                35,
+                0,
+                42,
+                13,
+                17,
+                24,
+                15,
+                38,
+                39,
+                5,
+                7
+            ],
+            "niuniuWithHoldingTotal": 1200,
+            "niuniuWithHoldingDetail": {
+                "302": 400,
+                "304": 400,
+                "306": 400
+            },
+            "niuniuResult": [
+                {
+                    "banker": 12,
+                    "isWin": false
+                },
+                {
+                    "player1": 17,
+                    "isWin": true
+                },
+                {
+                    "player2": 15,
+                    "isWin": true
+                },
+                {
+                    "player3": 13,
+                    "isWin": true
+                }
+            ],
+            "payoutWithoutholding": 1265,
+            "createTime": 1585211400,
+            "payoutTime": 1585211438,
+            "betHistoryId": "5e7c6808d4fa426cd7a3e841",
+            "validBet": 600,
+            "balance": 665,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 23,
+            "gameName": "fortune-wheel",
+            "betMap": [
+                {
+                    "betType": 400,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 401,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 402,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 403,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 404,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 405,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 406,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 407,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 408,
+                    "betMoney": 20
+                }
+            ],
+            "bet": 180,
+            "roundNo": "CW9-200326163500",
+            "payout": 155,
+            "payoutDetail": {
+                "402": 120,
+                "407": 35
+            },
+            "judgeResult": [
+                407,
+                402
+            ],
+            "payoutWithoutholding": 155,
+            "createTime": 1585211711,
+            "payoutTime": 1585211725,
+            "betHistoryId": "5e7c693fd4fa426cd7a3e854",
+            "validBet": 180,
+            "balance": -25,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3,
+            "maxPayout": 1000
+        }
+    ],
+    "count": 8,
+    "remainingVisits": 298,
+    "status": 200,
+    "apiVersion": "1.3.86"
+}

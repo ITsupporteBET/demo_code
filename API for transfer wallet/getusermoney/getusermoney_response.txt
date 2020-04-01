@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "username": "apitest01",
+            "money": 1234567.89,
+            "wallet": [
+                {
+                    "typeId": 0,
+                    "money": 1234567.89
+                },
+                {
+                    "typeId": 1,
+                    "money": 0
+                },
+                {
+                    "typeId": 2,
+                    "money": 0
+                },
+                {
+                    "typeId": 3,
+                    "money": 0
+                },
+                {
+                    "typeId": 4,
+                    "money": 0
+                },
+                {
+                    "typeId": 5,
+                    "money": 0
+                },
+                {
+                    "typeId": 6,
+                    "money": 0
+                }
+            ]
+        }
+    ],
+    "status": 200,
+    "apiVersion": "1.3.91"
+}

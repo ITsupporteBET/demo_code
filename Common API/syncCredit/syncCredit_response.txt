@@ -1,0 +1,7 @@
+{
+    "userName": "apitest01",
+    "money": 1234567.89,
+    "status": 200,
+    "event": "syncCredit",
+    "seqNo": "0db47f4147b20862dcdb18f916e4bb2e"
+}

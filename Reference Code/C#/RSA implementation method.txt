@@ -1,0 +1,29 @@
+//private Key encrypt
+public static string SignAndHash(string dataToSign ,string privatekey)
+{
+UnicodeEncoding ByteConverter = new UnicodeEncoding();
+RSACryptoServiceProvider RSAProvider = new RSACryptoServiceProvider();
+var encoder = new UTF8Encoding();
+byte[] plaintext = encoder.GetBytes(dataToSign);
+RSAProvider.FromXmlString(privatekey);
+RSAParameters priKey = RSAProvider.ExportParameters(true);
+RSAProvider.ImportParameters(priKey);
+byte[] sign = RSAProvider.SignData(plaintext, CryptoConfig.MapNameToOID("MD5"));
+return Convert.ToBase64String(sign);
+}
+//public Key verify
+public static bool VerifySignedHash(string dataToSign, string SignedData, string public_key) {
+try{
+UnicodeEncoding ByteConverter = new UnicodeEncoding();
+var encoder = new UTF8Encoding();
+RSACryptoServiceProvider RSAalg = new RSACryptoServiceProvider();
+RSAParameters priKey = RSAalg.ExportParameters(true);
+RSAalg.ImportParameters(priKey);
+RSAalg.FromXmlString(public_key);
+byte[] plaintext = encoder.GetBytes(dataToSign);
+return RSAalg.VerifyData(plaintext, CryptoConfig.MapNameToOID("MD5"),
+Convert.FromBase64String(SignedData));
+}catch (CryptographicException e){ Console.WriteLine(e.Message + "
+Error!!!");
+Console.ReadLine();
+return false;}}

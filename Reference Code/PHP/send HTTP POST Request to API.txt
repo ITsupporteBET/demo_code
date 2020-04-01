@@ -1,0 +1,11 @@
+$data = array('username' => xxx, 'channelId'=>'xx','timestamp'=>xxx,'signature'=>xxx);
+$options = array(
+'http' => array(
+'header' => "Content-type: application/x-www-form-urlencoded
+",
+'method' => 'POST',
+'content' => http_build_query($data), ), );
+$context = stream_context_create($options);//HTTP POST request
+$result = file_get_contents($url, false, $context);//read HTTP POST request return
+$obj = json_decode($result);
+$status = $obj→{'status'}; //get value

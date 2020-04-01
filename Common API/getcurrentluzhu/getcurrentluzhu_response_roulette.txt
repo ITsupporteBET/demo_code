@@ -1,0 +1,33 @@
+{
+    "count": 3,
+    "tableCode": "R1",
+    "tableType": 3,
+    "tableSubType": 0,
+    "luzhuList": [
+        [
+            23
+        ],
+        [
+            0
+        ],
+        [
+            28
+        ]
+    ],
+    "luzhuStat": [
+        [
+            "odd",
+            "red"
+        ],
+        [
+            "zero"
+        ],
+        [
+            "even",
+            "black"
+        ]
+    ],
+    "remainingVisits": 298,
+    "status": 200,
+    "apiVersion": "1.3.42"
+}

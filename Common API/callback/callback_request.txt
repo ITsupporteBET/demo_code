@@ -1,0 +1,7 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "timestamp": 1585638821,
+    "accessToken": "584c26e798deffc96cc7af073c184cd0",
+    "signature": "qwVPrRNJSi9X6WNT18jDREQWmzPvjUL2Ff5zZZWLH/DxBH2n08hcmz9KbnC1GM5QmIl+ktV1HoOxHsomKspHy5+VZJfE+yksVHk71othgxb2Q0+NZ8sTSpziOW8k7ZA0TmTTH+ALvbFnvoiiqXuw1qhErV8j8wfqh/0W+PJlVLs="
+}

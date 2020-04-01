@@ -1,0 +1,9 @@
+{
+    "pageNum": 1,
+    "pageSize": 1000,
+    "startTimeStr": "2020-03-30T16:00:00.000Z",
+    "endTimeStr": "2020-03-31T16:00:00.000Z",
+    "channelId": 1,
+    "timestamp": 1585627163871,
+    "signature": "NAUjmNA3ds7aquO5sJvO9dFPtE1n1+EtfBiUgpKEsKT4Fm1stvr9uuEAtnDsnBkg2Vi93omo2vWRpvjWYIUvVA=="
+}

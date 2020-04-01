@@ -1,0 +1,11 @@
+{
+    "cmd": "RegisterOrLoginReq",
+    "eventType": 4,
+    "channelId": 1,
+    "username": "apitest01",
+    "accessToken": "TestaccessTokenAPILogin04",
+    "password": "hidden",
+    "timestamp": 1585205819,
+    "ip": "127.0.0.1",
+    "signature": "akFplXO1SzDT/ZNWtxXLbKp8WCh87OzcY6d3nURvpwmk8jx4miNorwqft3AfLJ28ye7qlNnitgKnUOxSL6AAKw=="
+}

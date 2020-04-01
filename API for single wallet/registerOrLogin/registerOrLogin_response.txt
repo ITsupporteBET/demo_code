@@ -1,0 +1,10 @@
+{
+    "accessToken": "TestaccessTokenAPILogin04",
+    "subChannelId": 0,
+    "username": "apitest01",
+    "sessionToken": "4a1a010bbd542f179f30761d15f5f067",
+    "currency": "CNY",
+    "status": 200,
+    "event": "registerOrLogin",
+    "seqNo": "9efa93339d01d10e6e0dbd1d4e1ea060"
+}

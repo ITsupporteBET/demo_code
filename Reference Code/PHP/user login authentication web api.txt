@@ -1,0 +1,13 @@
+(PHP 5.5.*) -（Refer full source code）
+<?php
+$post = file_get_contents('php://input'); //get HTTP input stream
+if ($_SERVER[“REQUEST_METHOD”] == “POST”) ｛//check isPOST request
+$obj = json_decode($post); // JSON decode
+$cmd = $obj→{'cmd'};//read value
+if($cmd == "RegisterOrLoginReq"){..｝//handle user login request
+if($cmd == "UserInfo"){…}
+//handle userinfo request
+//set the return parameter value
+$data = array('cmd' => 'RegisterOrLoginResp','status'=>200);
+header('Content-type: application/json');
+echo json_encode($data);｝

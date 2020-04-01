@@ -1,0 +1,8 @@
+{
+    "username": "apitest01",
+    "money": 1234567.89,
+    "moneyBefore": 1234567.89,
+    "status": 200,
+    "event": "increaseCredit",
+    "seqNo": "1556826c114073d58fb699d55d1c4e97"
+}

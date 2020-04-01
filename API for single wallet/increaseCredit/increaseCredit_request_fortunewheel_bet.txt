@@ -1,0 +1,60 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": -900,
+    "type": 1,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "5eaabf5dc20405a47851d06a3cb6a06f",
+    "detail": {
+        "tableCode": "CW2",
+        "tableType": 23,
+        "tableSubType": 0,
+        "roundCode": "CW2-200330144658",
+        "betTime": 1585550830821,
+        "betList": [
+            {
+                "betType": 400,
+                "betMoney": 100
+            },
+            {
+                "betType": 401,
+                "betMoney": 100
+            },
+            {
+                "betType": 402,
+                "betMoney": 100
+            },
+            {
+                "betType": 403,
+                "betMoney": 100
+            },
+            {
+                "betType": 404,
+                "betMoney": 100
+            },
+            {
+                "betType": 405,
+                "betMoney": 100
+            },
+            {
+                "betType": 406,
+                "betMoney": 100
+            },
+            {
+                "betType": 407,
+                "betMoney": 100
+            },
+            {
+                "betType": 408,
+                "betMoney": 100
+            }
+        ],
+        "totalBet": 900,
+        "validBet": 0
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585550830855,
+    "sessionToken": "37c5b4ab752fd50fe71ff4b7f1eaf86e",
+    "signature": "ZYyVXUChOlcqVBwmlER8cxgxGS5UwWhIxp7jqLOq94Nz+o7y76Dm5pbpISYDIFyHboxp0ADOoaTBZSpb8VTldH10+eOqGNLgS9M3+IGqhCNBn9eOCl+AwV0wWSYcofw/Md5sqQw4hTsTmTw4do/fdIlmiAFODeZWDdvijYRUQXU="
+}

@@ -1,0 +1,5 @@
+{
+    "signature": "no7MQZTyHXxUZ4dbARNzWHxYzeSjAaSqaoYGNaAKNwBuxu/2tItg+gDgBk5c6FHYngCgPfJf8lv1MsCGGT9GxmLIbY2UeS/rsGh+NfOWFw3ntiD2opiz6AUIL557i+CHZq4mjjfLdb8NviKOOFBOJSFJVuKlsmFHv/1Z4JVy9fc=",
+    "channelId": 1,
+    "username": ""
+}

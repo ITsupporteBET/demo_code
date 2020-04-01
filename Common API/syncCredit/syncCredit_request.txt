@@ -1,0 +1,10 @@
+{
+    "channelId": 1,
+    "username": "apitest01",
+    "tableType": -1,
+    "currency": "CNY",
+    "event": "syncCredit",
+    "timestamp": 1585293678017,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "seqNo": "0db47f4147b20862dcdb18f916e4bb2e"
+}

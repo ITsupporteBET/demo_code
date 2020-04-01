@@ -1,0 +1,10 @@
+{
+    "cmd": "RegisterOrLoginReq",
+    "eventType": 1,
+    "channelId": 1,
+    "username": "apitest01",
+    "password": "hidden",
+    "timestamp": 1585188822,
+    "ip": "127.0.0.1",
+    "signature": "b9vqWDAER2GxKcgOc+RDBhrBxY//ngSq/kN03hmSav2Q3+isYcxy9tcMBPtaL08OUHsDpCnuM+Y7OGxZB23BHw=="
+}
