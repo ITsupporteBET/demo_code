@@ -1,5 +1,5 @@
 {
-    "channelId": 578,
+    "channelId": 1,
     "lastStartProcessTime": 1585680599313,
     "refundThreshold": 10001,
     "sessionToken": "99dfd785c4e932915c6a85d3604641dc",
