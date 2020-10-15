@@ -43,7 +43,8 @@
             }
         ],
         "totalBet": 7,
-        "validBet": 0
+        "validBet": 0,
+        "brokerageRequired": false
     },
     "event": "increaseCredit",
     "timestamp": 1585295475265,
