@@ -1,7 +1,7 @@
 {
     "username": "apitest01",
     "channelId": 1,
-    "money": 1.54,
+    "money": 2,
     "type": 2,
     "platform": 3,
     "currency": "CNY",
@@ -27,54 +27,20 @@
         ],
         "betList": [
             {
-                "betType": 66,
+                "betId": "7745e84b5d7c037fd34634ae124b9f22-60",
+                "betType": 60,
                 "betMoney": 1,
                 "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
-            },
-            {
-                "betType": 70,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 1.54
-            },
-            {
-                "betType": 80,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
-            },
-            {
-                "betType": 81,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
-            },
-            {
-                "betType": 83,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
-            },
-            {
-                "betType": 86,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
-            },
-            {
-                "betType": 88,
-                "betMoney": 1,
-                "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
-                "payout": 0
+                "payout": 2
             }
         ],
         "roundCode": "B18-200327155100",
         "betTime": 1585295475232,
-        "totalBet": 7,
-        "validBet": 7,
-        "payout": 1.54,
-        "payoutTime": 1585295503686
+        "totalBet": 1,
+        "validBet": 1,
+        "payout": 2,
+        "payoutTime": 1585295503686,
+        "betStopTime": 1585295503686
     },
     "event": "increaseCredit",
     "timestamp": 1585295503700,

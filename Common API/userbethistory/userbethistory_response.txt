@@ -30,7 +30,7 @@
                 }
             ],
             "bet": 60,
-            "roundNo": "BPT1-200326143006",
+            "roundNo": "B18-200326143006",
             "payout": 39.5,
             "payoutDetail": {
                 "80": 19.5,
@@ -59,55 +59,6 @@
             "betHistoryId": "5e7c4bfe3a64af25f0728746",
             "validBet": 60,
             "balance": -20.5,
-            "username": "apitest01",
-            "userId": 127001,
-            "platform": 3
-        },
-        {
-            "gameType": 1,
-            "gameName": "baccarat",
-            "betMap": [
-                {
-                    "betType": 60,
-                    "betMoney": 10
-                },
-                {
-                    "betType": 63,
-                    "betMoney": 10
-                },
-                {
-                    "betType": 66,
-                    "betMoney": 10
-                }
-            ],
-            "bet": 30,
-            "roundNo": "B18-200326155846",
-            "payout": 0,
-            "payoutDetail": {},
-            "judgeResult": [
-                80,
-                70,
-                83,
-                62
-            ],
-            "playerCards": [
-                38,
-                47,
-                23
-            ],
-            "playerResult": 1,
-            "bankerCards": [
-                50,
-                35,
-                0
-            ],
-            "bankerResult": 2,
-            "payoutWithoutholding": 0,
-            "createTime": 1585209552,
-            "payoutTime": 1585209568,
-            "betHistoryId": "5e7c60d03a64af25f07287a8",
-            "validBet": 30,
-            "balance": -30,
             "username": "apitest01",
             "userId": 127001,
             "platform": 3
@@ -485,193 +436,50 @@
             "platform": 3
         },
         {
-            "gameType": 7,
-            "gameName": "blockchain-baccarat",
+            "gameType": 24,
+            "gameName": "black_jack_electronic",
             "betMap": [
                 {
-                    "betType": 60,
-                    "betMoney": 100
+                    "betType": 802,
+                    "betMoney": 5
+                },
+                {
+                    "betType": 6011,
+                    "betMoney": 10
+                },
+                {
+                    "betType": 6012,
+                    "betMoney": 10
                 }
             ],
-            "bet": 100,
-            "roundNo": "15354353392694-0",
-            "payout": 200,
+            "bet": 25,
+            "roundNo": "J103-4J1033FB285F98DE6B018",
+            "payout": 20,
             "payoutDetail": {
-                "60": 200
-            },
-            "judgeResult": [],
-            "payoutWithoutholding": 200,
-            "createTime": 1569567550,
-            "payoutTime": 1569567550,
-            "betHistoryId": "5d8db33e4bbf7311d8991dd1",
-            "validBet": 100,
-            "balance": 100,
-            "username": "apitest01",
-            "userId": 7662,
-            "platform": 3
-        },
-
-        {
-            "gameType": 8,
-            "gameName": "niu niu",
-            "betMap": [
-                {
-                    "betType": 301,
-                    "betMoney": 100
-                },
-                {
-                    "betType": 302,
-                    "betMoney": 100
-                },
-                {
-                    "betType": 303,
-                    "betMoney": 100
-                },
-                {
-                    "betType": 304,
-                    "betMoney": 100
-                },
-                {
-                    "betType": 305,
-                    "betMoney": 100
-                },
-                {
-                    "betType": 306,
-                    "betMoney": 100
-                }
-            ],
-            "bet": 600,
-            "roundNo": "NN18-200326162951",
-            "payout": 2465,
-            "payoutDetail": {
-                "301": 195,
-                "302": 690,
-                "303": 195,
-                "304": 595,
-                "305": 195,
-                "306": 595
+                "802": -5,
+                "6011": 20,
+                "6012": 0
             },
             "judgeResult": [
-                19,
-                33,
-                28,
-                22,
-                51,
-                36,
-                47,
-                31,
-                23,
-                35,
-                0,
-                42,
-                13,
-                17,
-                24,
-                15,
-                38,
-                39,
-                5,
-                7
+                6011,
+                801,
+                6021,
+                6041,
+                6061
             ],
-            "niuniuWithHoldingTotal": 1200,
-            "niuniuWithHoldingDetail": {
-                "302": 400,
-                "304": 400,
-                "306": 400
-            },
-            "niuniuResult": [
-                {
-                    "banker": 12,
-                    "isWin": false
-                },
-                {
-                    "player1": 17,
-                    "isWin": true
-                },
-                {
-                    "player2": 15,
-                    "isWin": true
-                },
-                {
-                    "player3": 13,
-                    "isWin": true
-                }
-            ],
-            "payoutWithoutholding": 1265,
-            "createTime": 1585211400,
-            "payoutTime": 1585211438,
-            "betHistoryId": "5e7c6808d4fa426cd7a3e841",
-            "validBet": 600,
-            "balance": 665,
-            "username": "apitest01",
-            "userId": 127001,
+            "surrender": 0,
+            "payoutWithoutholding": 20,
+            "createTime": 1603853957,
+            "payoutTime": 1603853981,
+            "betHistoryId": "5f98de6e7e65973788428a07",
+            "validBet": 25,
+            "balance": -5,
+            "username": "alex",
+            "userId": 148718,
             "platform": 3
-        },
-        {
-            "gameType": 23,
-            "gameName": "fortune-wheel",
-            "betMap": [
-                {
-                    "betType": 400,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 401,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 402,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 403,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 404,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 405,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 406,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 407,
-                    "betMoney": 20
-                },
-                {
-                    "betType": 408,
-                    "betMoney": 20
-                }
-            ],
-            "bet": 180,
-            "roundNo": "CW9-200326163500",
-            "payout": 155,
-            "payoutDetail": {
-                "402": 120,
-                "407": 35
-            },
-            "judgeResult": [
-                407,
-                402
-            ],
-            "payoutWithoutholding": 155,
-            "createTime": 1585211711,
-            "payoutTime": 1585211725,
-            "betHistoryId": "5e7c693fd4fa426cd7a3e854",
-            "validBet": 180,
-            "balance": -25,
-            "username": "apitest01",
-            "userId": 127001,
-            "platform": 3,
-            "maxPayout": 1000
         }
     ],
-    "count": 8,
+    "count": 6,
     "remainingVisits": 298,
     "status": 200,
     "apiVersion": "1.3.86"

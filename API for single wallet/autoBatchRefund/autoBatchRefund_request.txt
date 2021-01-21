@@ -9,13 +9,23 @@
             "seqNo": "4d9287414d1b2b96181d1de48966085a",
             "username": "apitest01",
             "roundCode": "B18-200401023908",
-            "refundMoney": 700
+            "refundMoney": 700,
+            "detail": [
+                "betId": "4d9287414d1b2b96181d1de48966085a-60",
+                "betType": 60,
+                "money": 700
+            ]
         },
         {
             "seqNo": "00671b093ccbdf90147f3cc49d6f1558",
             "username": "apitest01",
             "roundCode": "B18-200401023824",
-            "refundMoney": 800
+            "refundMoney": 800,
+            "detail": [
+                "betId": "00671b093ccbdf90147f3cc49d6f1558-80",
+                "betType": 80,
+                "money": 800
+            ]
         }
     ],
     "currency": "CNY",

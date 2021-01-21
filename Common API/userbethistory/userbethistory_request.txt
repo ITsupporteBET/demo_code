@@ -5,5 +5,6 @@
     "endTimeStr": "2020-03-26T16:00:00.000Z",
     "timestamp": 1585212287,
     "channelId": 1,
+    "betStatus": 1,
     "signature": "DUwaa47GfrWic3o8pXOmqB69CLsxaC8YDkjRdukb0NcpznY/tGPF0fHaX8uE0MPIuyiyOUuPp3HiakxGs1sA0g=="
 }

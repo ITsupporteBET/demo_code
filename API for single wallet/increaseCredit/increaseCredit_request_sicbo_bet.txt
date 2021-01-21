@@ -1,7 +1,7 @@
 {
     "username": "apitest01",
     "channelId": 1,
-    "money": -900,
+    "money": -100,
     "type": 1,
     "platform": 3,
     "currency": "CNY",
@@ -14,43 +14,13 @@
         "betTime": 1585295604934,
         "betList": [
             {
-                "betType": 101,
-                "betMoney": 100
-            },
-            {
-                "betType": 102,
-                "betMoney": 100
-            },
-            {
-                "betType": 109,
-                "betMoney": 100
-            },
-            {
-                "betType": 116,
-                "betMoney": 100
-            },
-            {
-                "betType": 133,
-                "betMoney": 100
-            },
-            {
-                "betType": 139,
-                "betMoney": 100
-            },
-            {
-                "betType": 154,
-                "betMoney": 100
-            },
-            {
+                "betId": "a9d5e31a201845a2af329614ce8598bf-155",
                 "betType": 155,
-                "betMoney": 100
-            },
-            {
-                "betType": 156,
-                "betMoney": 100
+                "betMoney": 100,
+                "number": "1,1,6"
             }
         ],
-        "totalBet": 900,
+        "totalBet": 100,
         "validBet": 0
     },
     "event": "increaseCredit",

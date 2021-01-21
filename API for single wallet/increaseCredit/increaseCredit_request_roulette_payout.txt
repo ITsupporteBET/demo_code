@@ -31,93 +31,21 @@
         ],
         "betList": [
             {
-                "betType": 205,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "0,1,2,3"
-            },
-            {
-                "betType": 209,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0
-            },
-            {
-                "betType": 211,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0
-            },
-            {
-                "betType": 214,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0
-            },
-            {
+                "betId": "5c3b62ead05e88abdc9fef6beba0bb8d-200",
                 "betType": 200,
-                "betMoney": 20,
+                "betMoney": 100,
                 "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
                 "payout": 0,
-                "number": "1"
-            },
-            {
-                "betType": 204,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "0,1,2"
-            },
-            {
-                "betType": 201,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,2"
-            },
-            {
-                "betType": 203,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,2,4,5"
-            },
-            {
-                "betType": 206,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,2,3,4,5,6"
-            },
-            {
-                "betType": 202,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,2,3"
-            },
-            {
-                "betType": 207,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,4,7,10,13,16,19,22,25,28,31,34"
-            },
-            {
-                "betType": 208,
-                "betMoney": 20,
-                "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
-                "payout": 0,
-                "number": "1,2,3,4,5,6,7,8,9,10,11,12"
+                "number": "24"
             }
         ],
         "roundCode": "R18-200327155358",
         "betTime": 1585295659766,
-        "totalBet": 240,
-        "validBet": 240,
+        "totalBet": 100,
+        "validBet": 100,
         "payout": 0,
-        "payoutTime": 1585295671158
+        "payoutTime": 1585295671158,
+        "betStopTime": 1585295671158
     },
     "event": "increaseCredit",
     "timestamp": 1585295671187,

@@ -27,68 +27,21 @@
         ],
         "betList": [
             {
-                "betType": 101,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 102,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 109,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 116,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 133,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 139,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
-                "betType": 154,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0
-            },
-            {
+                "betId": "a9d5e31a201845a2af329614ce8598bf-155",
                 "betType": 155,
                 "betMoney": 100,
                 "seqNo": "a9d5e31a201845a2af329614ce8598bf",
                 "payout": 0,
                 "number": "1,1,6"
-            },
-            {
-                "betType": 156,
-                "betMoney": 100,
-                "seqNo": "a9d5e31a201845a2af329614ce8598bf",
-                "payout": 0,
-                "number": "1,4,6"
             }
         ],
         "roundCode": "S18-200327155259",
         "betTime": 1585295604943,
-        "totalBet": 900,
-        "validBet": 900,
+        "totalBet": 100,
+        "validBet": 100,
         "payout": 0,
-        "payoutTime": 1585295616339
+        "payoutTime": 1585295616339,
+        "betStopTime": 1585295616339
     },
     "event": "increaseCredit",
     "timestamp": 1585295616366,
