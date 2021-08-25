@@ -1,0 +1,19 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 100,
+    "type": 24,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "b81a266bece795f597ffeb1e81b1a093",
+    "sessionToken": "5032acd99251530eab617cd6966cd140",
+    "detail": {
+        "tableCode": "B1",
+        "tableType": 1,
+        "tableSubType": 0,
+        "roundCode": "B1-190731150155"
+    },
+    "event": "increaseCredit",
+    "timestamp": 1564556546208,
+    "signature": "YGMgM7c7JkuMhn6nvLOBDYIC+DjXJaHba/BUvQ8cTJ29H4H/u0Lr5FNPxiaoJp2ejKfQCiVhCAwx6FB6ZTaDaQ=="
+}

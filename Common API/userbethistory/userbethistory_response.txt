@@ -436,6 +436,165 @@
             "platform": 3
         },
         {
+            "gameType": 8,
+            "gameName": "niu niu",
+            "betMap": [
+                {
+                    "betType": 301,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 302,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 303,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 304,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 305,
+                    "betMoney": 100
+                },
+                {
+                    "betType": 306,
+                    "betMoney": 100
+                }
+            ],
+            "bet": 600,
+            "roundNo": "NN18-200326162951",
+            "payout": 2465,
+            "payoutDetail": {
+                "301": 195,
+                "302": 690,
+                "303": 195,
+                "304": 595,
+                "305": 195,
+                "306": 595
+            },
+            "judgeResult": [
+                19,
+                33,
+                28,
+                22,
+                51,
+                36,
+                47,
+                31,
+                23,
+                35,
+                0,
+                42,
+                13,
+                17,
+                24,
+                15,
+                38,
+                39,
+                5,
+                7
+            ],
+            "niuniuWithHoldingTotal": 1200,
+            "niuniuWithHoldingDetail": {
+                "302": 400,
+                "304": 400,
+                "306": 400
+            },
+            "niuniuResult": [
+                {
+                    "banker": 12,
+                    "isWin": false
+                },
+                {
+                    "player1": 17,
+                    "isWin": true
+                },
+                {
+                    "player2": 15,
+                    "isWin": true
+                },
+                {
+                    "player3": 13,
+                    "isWin": true
+                }
+            ],
+            "payoutWithoutholding": 1265,
+            "createTime": 1585211400,
+            "payoutTime": 1585211438,
+            "betHistoryId": "5e7c6808d4fa426cd7a3e841",
+            "validBet": 600,
+            "balance": 665,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3
+        },
+        {
+            "gameType": 23,
+            "gameName": "fortune-wheel",
+            "betMap": [
+                {
+                    "betType": 400,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 401,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 402,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 403,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 404,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 405,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 406,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 407,
+                    "betMoney": 20
+                },
+                {
+                    "betType": 408,
+                    "betMoney": 20
+                }
+            ],
+            "bet": 180,
+            "roundNo": "CW9-200326163500",
+            "payout": 155,
+            "payoutDetail": {
+                "402": 120,
+                "407": 35
+            },
+            "judgeResult": [
+                407,
+                402
+            ],
+            "payoutWithoutholding": 155,
+            "createTime": 1585211711,
+            "payoutTime": 1585211725,
+            "betHistoryId": "5e7c693fd4fa426cd7a3e854",
+            "validBet": 180,
+            "balance": -25,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 3,
+            "maxPayout": 1000
+        },
+        {
             "gameType": 24,
             "gameName": "black_jack_electronic",
             "betMap": [
@@ -477,9 +636,38 @@
             "username": "alex",
             "userId": 148718,
             "platform": 3
+        },
+        {
+            "gameType": 25,
+            "gameName": "black_jack_live",
+            "betMap": [
+                {
+                    "betType": 6011,
+                    "betMoney": 1
+                }
+            ],
+            "bet": 1,
+            "roundNo": "J001-4J0013144861057656007",
+            "payout": 0.5,
+            "payoutDetail": {
+                "6011": 0.5
+            },
+            "judgeResult": [
+                801,
+                601164
+            ],
+            "payoutWithoutholding": 0.5,
+            "createTime": 1627747929,
+            "payoutTime": 1627747979,
+            "betHistoryId": "61057659689be6001102d7f7",
+            "validBet": 0.5,
+            "balance": -0.5,
+            "username": "apitest01",
+            "userId": 127001,
+            "platform": 2
         }
     ],
-    "count": 6,
+    "count": 9,
     "remainingVisits": 298,
     "status": 200,
     "apiVersion": "1.3.86"

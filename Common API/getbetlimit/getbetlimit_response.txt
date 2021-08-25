@@ -191,7 +191,7 @@
             "betPlayer3DoubleMax": 10000
         },
         {
-            "gameType": 23,
+            "gameType": 7,
             "number_1Min": 1,
             "number_1Max": 10000,
             "number_2Min": 1,
@@ -210,6 +210,16 @@
             "oddMax": 10000,
             "evenMin": 1,
             "evenMax": 10000
+        },
+        {
+            "gameType": 8,
+            "bet_Min": 20,
+            "bet_Max": 5000
+        },
+        {
+            "gameType": 9,
+            "bet_Min": 1,
+            "bet_Max": 1000
         }
     ],
     "status": 200,

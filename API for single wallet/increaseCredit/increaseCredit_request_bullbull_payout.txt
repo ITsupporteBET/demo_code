@@ -1,0 +1,90 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 970,
+    "type": 2,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "4377ba2c45002ba9c8aaa3cec7acc821",
+    "detail": {
+        "tableCode": "NN18",
+        "tableType": 8,
+        "tableSubType": 0,
+        "srcResults": [
+            37,
+            17,
+            0,
+            32,
+            24,
+            14,
+            48,
+            43,
+            22,
+            8,
+            41,
+            6,
+            25,
+            31,
+            45,
+            21,
+            12,
+            36,
+            2,
+            34
+        ],
+        "results": [
+            301,
+            302,
+            303,
+            304
+        ],
+        "betList": [
+            {
+                "betType": 301,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 195
+            },
+            {
+                "betType": 302,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 690
+            },
+            {
+                "betType": 303,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 195
+            },
+            {
+                "betType": 304,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 690
+            },
+            {
+                "betType": 305,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 0
+            },
+            {
+                "betType": 306,
+                "betMoney": 100,
+                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+                "payout": 400
+            }
+        ],
+        "roundCode": "NN18-200327155639",
+        "betTime": 1585295818322,
+        "totalBet": 600,
+        "validBet": 600,
+        "payout": 2170,
+        "payoutTime": 1585295847542
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295847590,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "OGI0CFZU1vQHP3YT9bMUA0s2Bgx0PMoWj5kKcaGa3GyhDf16F5zEwlNYD1AYbb3ylswsHvFgAc3EnikSCvt2pUvK/9n6b6Y5nvwR4hK64YlK4A6oETA1Ws7XLRirol6THS3BHRfnEmbPeCvM/FWF2WG3+OnDWnB6Wfw0/AM+aYQ="
+}

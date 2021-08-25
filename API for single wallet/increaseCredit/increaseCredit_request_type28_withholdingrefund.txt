@@ -1,0 +1,19 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 1200,
+    "type": 28,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "b44cf5fc1c9c95983d2af49003faaf8c",
+    "detail": {
+        "tableCode": "NN18",
+        "tableType": 8,
+        "tableSubType": 0,
+        "roundCode": "NN18-200327155639"
+    },
+    "event": "increaseCredit",
+    "timestamp": 1585295847553,
+    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
+    "signature": "aiEajB9mNGvvtsLi7Dwo3sM7PvInmiLdOXEVFn0XIVGTj9CyQCO1NyAlnGdLE5/rvj+sYqMp6x+d2qnPXzEPopOIeYyNPwpH73XTb+MpmnyMWLLl6sZy9ev3ekW5gXE68fD5nXES6y5KzixhUNVsvi3MhPdhsQV//6RKXy2Je3Y="
+}
