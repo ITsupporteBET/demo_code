@@ -1,32 +1,30 @@
 {
     "username": "apitest01",
     "channelId": 1,
-    "money": -100,
+    "money": -10,
     "type": 1,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "5c3b62ead05e88abdc9fef6beba0bb8d",
+    "seqNo": "882a77cdd745e7ad80570c931d0e80c1",
     "detail": {
-        "tableCode": "R18",
+        "tableCode": "RF1",
         "tableType": 3,
-        "tableSubType": 0,
-        "roundCode": "R18-200327155358",
-        "betTime": 1585295659757,
+        "tableSubType": 1,
+        "roundCode": "RF1-200327155358",
+        "betTime": 1634608590231,
         "betList": [
             {
-                "betId": "5c3b62ead05e88abdc9fef6beba0bb8d-200",
+                "betId": "882a77cdd745e7ad80570c931d0e80c1-200",
                 "betType": 200,
-                "betMoney": 100,
-                "number": "24"
+                "betMoney": 10,
+                "number": "9"
             }
         ],
-        "totalBet": 100,
+        "totalBet": 10,
         "validBet": 0
     },
     "event": "increaseCredit",
-    "timestamp": 1585295659780,
+    "timestamp": 1634608590231,
     "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
     "signature": "hlk2RdImmfivgUtofwUT1Qff6sAhm8ICYHbhdEy73yefk2v9UukIfiU5GXnE+/+i/5r0wOyMun49ZVUXQ38o0wFrgNJes2MftB4KOv2EgDCJLZm8Y+j7HTyFRZ8Ug1DUqLfTc0XSvYYFVQgEaTIUCS1ck/JUcxmoxkvC5unaTQw="
 }
-
-roulette

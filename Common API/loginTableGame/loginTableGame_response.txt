@@ -1,0 +1,7 @@
+{
+    "url": "https://m.pg-redirect.net/diaochan/index.html?bet_type=1&from=http://www.ebet.com&language=zh_cn&operator_player_session=d684dd074c9a93fa3977404831423c87-6428&operator_token=3f88464afacfa9cc07be0d181a5e631e",
+    "status": 200,
+    "apiVersion": "1.5.25",
+    "message":""
+
+}

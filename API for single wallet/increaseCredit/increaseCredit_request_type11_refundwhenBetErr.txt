@@ -1,52 +1,33 @@
 {
     "username": "apitest01",
     "channelId": 1,
-    "money": -7,
-    "type": 1,
+    "money": 400,
+    "type": 11,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
+    "seqNo": "165c0e36bce5bb2874de12c20348090d",
     "detail": {
-        "tableCode": "B18",
-        "tableType": 1,
+        "tableCode": "NN2",
+        "tableType": 8,
         "tableSubType": 0,
-        "roundCode": "B18-200327155100",
-        "betTime": 1585295475223,
+        "roundCode": "NN2-211119154844",
+        "betTime": 1637308132392.0,
         "betList": [
             {
-                "betType": 66,
-                "betMoney": 1
+                "betType": 302,
+                "betMoney": 50
             },
             {
-                "betType": 70,
-                "betMoney": 1
-            },
-            {
-                "betType": 80,
-                "betMoney": 1
-            },
-            {
-                "betType": 81,
-                "betMoney": 1
-            },
-            {
-                "betType": 83,
-                "betMoney": 1
-            },
-            {
-                "betType": 86,
-                "betMoney": 1
-            },
-            {
-                "betType": 88,
-                "betMoney": 1
+                "betType": 304,
+                "betMoney": 50
             }
         ],
-        "totalBet": 7,
-        "validBet": 0
+        "totalBet": 100,
+        "validBet": 0,
+        "withHoldingSeqNo": "43c4f135f0c05cf8eba045fb46ef1e51"
     },
     "event": "increaseCredit",
-    "timestamp": 1585295475265,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "lkBsw6/HNQHraNnglmVgh5TwQXvVt/jkvSDxK24X3Zmwu+lg5Rdxh3/lQi0P4TiolDaAY5hoZlgXuR4Q5hb8K3cWJYanXsNXdPlDk/olfcDOroziVq4mzCnQZ4PJ2q/zGUmeDNR9JNDdxzlEhZEPp7grrmJw41PAopmDt376cus="
+    "timestamp": 1637308132650.0,
+    "sessionToken": "ddb5187ce8b1d020913a4b20380e03d7",
+    "signature": "A29ZGt8F1Dx5eHPeXJ3v8xSMrzEHlmPgDv8Qh/6m/04JibqjU3g4iA48tqXvbxUzbDyYDQQBmMP3ul+UsV3cCw=="
 }

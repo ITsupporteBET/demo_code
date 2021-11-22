@@ -1,0 +1,9 @@
+{
+    "channelId": 1,
+    "username": "apitest01",
+    "timestamp": 1585619696049,
+    "signature": "kiHC0kZWnVt0ogftO9nudOchmA0aXq68T5SKTqkYs+YazS3pgj6Q6l7zL5SVP/E4KJmKOJ6nHJ/eFxPOE4YskiuFV4dR+F2CNMuGUuPYZgJKOpFUqx8re2bDYNsb/Hr7/Cbue0jwcF19CDguVut08rWrq5iN5Zazdd0UHixf++M=",
+    "loginEventType": 4,
+    "token": "0c75f8ed762e047fa0e4f6d6bf61867a",
+    "providerId": "wayi",
+    "gameID": "dice"

@@ -1,59 +1,51 @@
 {
     "results": [
         {
-            "userName": "test01",
-            "games": [
-                {
-                    "gameType": 1,
-                    "gameName": "baccarat",
-                    "totalBet": 150,
-                    "totalEffectiveBet": 150,
-                    "totalBalance": 110,
-                    "count": 3
-                }
-            ]
-        },
-        {
             "userName": "apitest01",
             "games": [
                 {
                     "gameType": 1,
                     "gameName": "baccarat",
-                    "totalBet": 7,
-                    "totalEffectiveBet": 7,
-                    "totalBalance": 5.46,
-                    "count": 1
+                    "totalBet": 1300,
+                    "totalEffectiveBet": 700,
+                    "totalPayout": 1684,
+                    "totalBalance": -384,
+                    "count": 2
                 },
                 {
                     "gameType": 2,
                     "gameName": "dragon-tiger",
-                    "totalBet": 500,
-                    "totalEffectiveBet": 500,
-                    "totalBalance": -80,
+                    "totalBet": 300,
+                    "totalEffectiveBet": 100,
+                    "totalPayout": 200,
+                    "totalBalance": 100,
                     "count": 1
                 },
                 {
                     "gameType": 3,
                     "gameName": "roulette",
-                    "totalBet": 240,
-                    "totalEffectiveBet": 240,
-                    "totalBalance": 240,
-                    "count": 1
+                    "totalBet": 8900,
+                    "totalEffectiveBet": 4100,
+                    "totalPayout": 6900,
+                    "totalBalance": 2000,
+                    "count": 6
                 },
                 {
                     "gameType": 4,
                     "gameName": "sic-bo",
-                    "totalBet": 900,
-                    "totalEffectiveBet": 900,
-                    "totalBalance": 900,
-                    "count": 1
+                    "totalBet": 5100,
+                    "totalEffectiveBet": 4300,
+                    "totalPayout": 3500,
+                    "totalBalance": 1600,
+                    "count": 3
                 },
                 {
                     "gameType": 5,
                     "gameName": "slot",
-                    "totalBet": 6,
-                    "totalEffectiveBet": 6,
-                    "totalBalance": -18,
+                    "totalBet": 5,
+                    "totalEffectiveBet": 5,
+                    "totalPayout": 158.5,
+                    "totalBalance": -153.5,
                     "count": 1
                 },
                 {
@@ -61,21 +53,50 @@
                     "gameName": "niu niu",
                     "totalBet": 1800,
                     "totalEffectiveBet": 600,
-                    "totalBalance": -370,
+                    "totalPayout": 1485,
+                    "totalBalance": 315,
                     "count": 1
                 },
                 {
                     "gameType": 23,
                     "gameName": "fortune-wheel",
-                    "totalBet": 1100,
-                    "totalEffectiveBet": 1100,
-                    "totalBalance": 725,
-                    "count": 2
+                    "totalBet": 900,
+                    "totalEffectiveBet": 900,
+                    "totalPayout": 375,
+                    "totalBalance": 525,
+                    "count": 1
+                },
+                {
+                    "gameType": 24,
+                    "gameName": "",
+                    "totalBet": 100,
+                    "totalEffectiveBet": 0,
+                    "totalPayout": 100,
+                    "totalBalance": 0,
+                    "count": 1
+                },
+                {
+                    "gameType": 25,
+                    "gameName": "",
+                    "totalBet": 500,
+                    "totalEffectiveBet": 500,
+                    "totalPayout": 1300,
+                    "totalBalance": -800,
+                    "count": 1
+                },
+                {
+                    "gameType": 27,
+                    "gameName": "mini-game",
+                    "totalBet": 1,
+                    "totalEffectiveBet": 1,
+                    "totalPayout": 0,
+                    "totalBalance": 1,
+                    "count": 1
                 }
             ]
         }
     ],
-    "remainingVisit": 59,
+    "remainingVisit": 499,
     "status": 200,
-    "apiVersion": "1.3.91"
+    "apiVersion": "1.5.25"
 }

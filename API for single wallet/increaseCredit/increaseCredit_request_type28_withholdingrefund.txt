@@ -10,7 +10,30 @@
         "tableCode": "NN18",
         "tableType": 8,
         "tableSubType": 0,
-        "roundCode": "NN18-200327155639"
+        "roundCode": "NN18-200327155639",
+        "withHoldingList": [
+            {
+                "betType": "302",
+                "withHolding": 400,
+                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
+                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-302",
+                "status": 1
+            },
+            {
+                "betType": "304",
+                "withHolding": 400,
+                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
+                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-304",
+                "status": 1
+            },
+            {
+                "betType": "306",
+                "withHolding": 400,
+                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
+                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-306",
+                "status": 1
+            }
+        ]
     },
     "event": "increaseCredit",
     "timestamp": 1585295847553,

@@ -1,0 +1,54 @@
+{
+    "username": "apitest01",
+    "channelId": 1,
+    "money": 10,
+    "type": 2,
+    "platform": 3,
+    "currency": "CNY",
+    "seqNo": "d6e3a60a191a67a1d6b4ca2bc9008210",
+    "detail": {
+        "tableCode": "RF1",
+        "tableType": 3,
+        "tableSubType": 1,
+        "srcResults": [
+            9
+        ],
+        "results": [
+            200,
+            214,
+            211,
+            209,
+            202,
+            207,
+            206,
+            206,
+            203,
+            203,
+            208,
+            201,
+            201,
+            201
+        ],
+        "betList": [
+            {
+                "betType": 200,
+                "betMoney": 10,
+                "seqNo": "882a77cdd745e7ad80570c931d0e80c1",
+                "payout": 1010,
+                "number": "9",
+                "betId": "882a77cdd745e7ad80570c931d0e80c1-200"
+            }
+        ],
+        "roundCode": "RF1-211019095615",
+        "betTime": 1634608584785,
+        "totalBet": 10,
+        "validBet": 10,
+        "payout": 1010,
+        "payoutTime": 1634608602269,
+        "betStopTime": 1634608590331
+    },
+    "event": "increaseCredit",
+    "timestamp": 1634608602299,
+    "sessionToken": "83393ed2959e6cf450ee8dab38a5cb12",
+    "signature": "jKDWzi9K+ZOX6egqnr5Azwi8OtZa1pPSIvroIaar121ExBjohpcqvIcWMxi/PgdSvMetSWULiPxET6A7h+Vy5Q=="
+}

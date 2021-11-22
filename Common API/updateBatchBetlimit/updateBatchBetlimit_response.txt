@@ -11,7 +11,10 @@
         9,
         10
     ],
-    "username": "apitest01",
+    "userList": [
+        "apitest01",
+        "apitest"
+    ],
     "channelId": 1,
     "status": 200,
     "apiVersion": "1.5.25"

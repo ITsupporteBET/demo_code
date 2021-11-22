@@ -2,7 +2,7 @@
     "username": "apitest01",
     "channelId": 1,
     "money": 0,
-    "type": 3,
+    "type": 2,
     "platform": 2,
     "currency": "CNY",
     "seqNo": "08fa47400471e98c92d0afe84d3e6364",
