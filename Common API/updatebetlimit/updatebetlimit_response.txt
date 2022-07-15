@@ -9,10 +9,11 @@
         7,
         8,
         9,
-        10
+        10,
+        11
     ],
     "username": "apitest01",
     "channelId": 1,
     "status": 200,
-    "apiVersion": "1.5.25"
+    "apiVersion": "1.5.63"
 }

@@ -1,45 +1,47 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": 200,
+    "money": 0,
     "type": 2,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "c548fec8259eb9491b91343df04ebfaf",
+    "seqNo": "0486c467889679cf9fdb54bbffc57de8",
     "detail": {
-        "tableCode": "D18",
+        "tableCode": "DL1",
         "tableType": 2,
         "tableSubType": 0,
         "srcResults": [
-            46,
-            13
+            39,
+            15
         ],
         "results": [
-            10,
-            12,
+            11,
+            13,
             15,
             16,
             19
         ],
         "betList": [
             {
-                "betId": "3aecb5713b99d0f4475ea017e697e64a-10",
                 "betType": 10,
-                "betMoney": 100,
-                "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
-                "payout": 200
+                "betMoney": 500,
+                "seqNo": "e155edc57ee379e3f0e3677d81327857",
+                "payout": 0,
+                "odds": 1,
+                "validBet": 500,
+                "betId": "e155edc57ee379e3f0e3677d81327857-10"
             }
         ],
-        "roundCode": "D18-200327155224",
-        "betTime": 1585295557837,
-        "totalBet": 100,
-        "validBet": 100,
-        "payout": 200,
-        "payoutTime": 1585295575037,
-        "betStopTime": 1585295575037
+        "roundCode": "DL1-220715140533",
+        "betTime": 1657865138671,
+        "totalBet": 500,
+        "validBet": 500,
+        "payout": 0,
+        "payoutTime": 1657865167946,
+        "betStopTime": 1657865157601
     },
     "event": "increaseCredit",
-    "timestamp": 1585295575072,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "m1sCMdaDMs44hbkWBjrmOK3SAUZXzSae3qSYoOgIAYI5/UlyCGHjPE9u7yvfKAfQQpwq9wjrnwmQrW1CgP40kmVcJeeDZX59ZK242AqeYr02r2D1rhZcdehNIP3+ec4ATqc6qw9SMM5y0WJKNUTz4rzakaL2jgJdbS6Cs034xNg="
+    "timestamp": 1657865188416,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "UgSsmvRwLw2PEeq/lqUr5JzHV1DriFUpufRlkDLA66om24eSLD24Q7YfMwctJfY5DYJaNi3xAY/dVdRKXmlH4w=="
 }

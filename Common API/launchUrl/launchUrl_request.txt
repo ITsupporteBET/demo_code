@@ -1,0 +1,6 @@
+{
+    "channelId": 1,
+    "timestamp": 1657856025,
+    "currency": "CNY",
+    "signature": "cbgzxxah5+cffQK0RhhEPYLlr5V01yo4TQhItEtVkbyEstvpYrG34gOW9cQW55JAOiaJDWVAdjonCCPuE1saIw=="
+}

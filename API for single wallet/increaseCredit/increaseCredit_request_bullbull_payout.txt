@@ -1,90 +1,109 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
     "money": 970,
     "type": 2,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "4377ba2c45002ba9c8aaa3cec7acc821",
+    "seqNo": "6537c12bf09fbcc22c806289688a63bf",
     "detail": {
-        "tableCode": "NN18",
+        "tableCode": "NNP1",
         "tableType": 8,
         "tableSubType": 0,
         "srcResults": [
-            37,
-            17,
-            0,
-            32,
-            24,
-            14,
-            48,
-            43,
-            22,
-            8,
             41,
-            6,
+            50,
+            20,
+            4,
+            14,
+            10,
             25,
-            31,
-            45,
-            21,
-            12,
+            23,
+            17,
+            19,
+            0,
+            11,
+            9,
+            3,
+            1,
+            46,
+            18,
+            34,
             36,
-            2,
-            34
+            21
         ],
         "results": [
-            301,
-            302,
             303,
-            304
+            304,
+            305,
+            306
         ],
         "betList": [
             {
                 "betType": 301,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 195
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 0,
+                "odds": 1,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-301"
             },
             {
                 "betType": 302,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 690
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 0,
+                "odds": 1,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-302"
             },
             {
                 "betType": 303,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 195
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 195,
+                "odds": 0.95,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-303"
             },
             {
                 "betType": 304,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 690
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 385,
+                "odds": 2.85,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-304"
             },
             {
                 "betType": 305,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 0
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 195,
+                "odds": 0.95,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-305"
             },
             {
                 "betType": 306,
                 "betMoney": 100,
-                "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
-                "payout": 400
+                "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
+                "payout": 195,
+                "odds": 0.95,
+                "validBet": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-306"
             }
         ],
-        "roundCode": "NN18-200327155639",
-        "betTime": 1585295818322,
+        "roundCode": "NNP1-220715140941",
+        "betTime": 1657865391253,
         "totalBet": 600,
         "validBet": 600,
-        "payout": 2170,
-        "payoutTime": 1585295847542
+        "payout": 970,
+        "payoutTime": 1657865451964,
+        "betStopTime": 1657865411736
     },
     "event": "increaseCredit",
-    "timestamp": 1585295847590,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "OGI0CFZU1vQHP3YT9bMUA0s2Bgx0PMoWj5kKcaGa3GyhDf16F5zEwlNYD1AYbb3ylswsHvFgAc3EnikSCvt2pUvK/9n6b6Y5nvwR4hK64YlK4A6oETA1Ws7XLRirol6THS3BHRfnEmbPeCvM/FWF2WG3+OnDWnB6Wfw0/AM+aYQ="
+    "timestamp": 1657865473135,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "Fpn6xQeTSTxDvUYbdXt6Zkd01qovEKQ1JZK3vQBWFCOr42WocsDAT5O/WWX8DC7s+ioIOn3wNhY7sTCE9QSZUg=="
 }

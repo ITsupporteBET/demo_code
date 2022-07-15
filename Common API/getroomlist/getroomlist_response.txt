@@ -1,0 +1,199 @@
+{
+    "count": 32,
+    "tableCodes": [
+        {
+            "tableCode": "BK10",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BK11",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BL1",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BL2",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BL3",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BP1",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BP2",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BP7",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BP8",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BP9",
+            "tableType": 1,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "BPV1",
+            "tableType": 1,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "CW1",
+            "tableType": 23,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "DL1",
+            "tableType": 2,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "DL2",
+            "tableType": 2,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "J001",
+            "tableType": 25,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "NNP1",
+            "tableType": 8,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "PD1",
+            "tableType": 29,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RC1",
+            "tableType": 3,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RC2",
+            "tableType": 3,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RC3",
+            "tableType": 3,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RC4",
+            "tableType": 3,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RC5",
+            "tableType": 3,
+            "tableSubType": 1,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RE1",
+            "tableType": 3,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RE2",
+            "tableType": 3,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RLB1",
+            "tableType": 3,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RP1",
+            "tableType": 3,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "RP2",
+            "tableType": 3,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "S2",
+            "tableType": 4,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "SL1",
+            "tableType": 4,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "SLB1",
+            "tableType": 4,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "SLB2",
+            "tableType": 4,
+            "tableSubType": 0,
+            "isMaintain": 0
+        },
+        {
+            "tableCode": "SLB3",
+            "tableType": 4,
+            "tableSubType": 0,
+            "isMaintain": 0
+        }
+    ],
+    "status": 200,
+    "apiVersion": "1.5.63"
+}

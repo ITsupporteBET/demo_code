@@ -1,0 +1,14 @@
+// private Key encrypt
+const crypto = require('crypto');
+function sign( privateKey, validStr ) {
+let signer = crypto.createSign('md5');
+signer.update(validStr);
+return signer.sign(privateKey, 'base64');
+}
+// public Key verify
+const crypto = require('crypto');
+function verify( publicKey, validStr, signature){
+let verify = crypto.createVerify('md5');
+verify.update(validStr);
+return verify.verify(publicKey, signature, 'base64');
+}

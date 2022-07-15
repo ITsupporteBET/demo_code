@@ -264,6 +264,29 @@
             "splitMax": 100,
             "straightMin": 100,
             "straightMax": 100
+        },
+        {
+            "gameType": 11,
+            "betPlayer1Min": 10,
+            "betPlayer1Max": 20000,
+            "betPlayer2Min": 10,
+            "betPlayer2Max": 20000,
+            "betPlayer3Min": 10,
+            "betPlayer3Max": 20000,
+            "betPlayer4Min": 10,
+            "betPlayer4Max": 20000,
+            "betPlayer5Min": 10,
+            "betPlayer5Max": 20000,
+            "betPlayer1PairMin": 10,
+            "betPlayer1PairMax": 5000,
+            "betPlayer2PairMin": 10,
+            "betPlayer2PairMax": 5000,
+            "betPlayer3PairMin": 10,
+            "betPlayer3PairMax": 5000,
+            "betPlayer4PairMin": 10,
+            "betPlayer4PairMax": 5000,
+            "betPlayer5PairMin": 10,
+            "betPlayer5PairMax": 5000
         }
     ]
 }

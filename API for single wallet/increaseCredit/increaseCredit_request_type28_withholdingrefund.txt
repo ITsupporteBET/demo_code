@@ -1,42 +1,61 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": 1200,
+    "money": 50,
     "type": 28,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "b44cf5fc1c9c95983d2af49003faaf8c",
+    "seqNo": "622f2e4b3cf555150e739ac85a5cb99d",
     "detail": {
-        "tableCode": "NN18",
-        "tableType": 8,
+        "tableCode": "PD1",
+        "tableType": 29,
         "tableSubType": 0,
-        "roundCode": "NN18-200327155639",
+        "roundCode": "PD1-220715141246",
         "withHoldingList": [
             {
-                "betType": "302",
-                "withHolding": 400,
-                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
-                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-302",
-                "status": 1
+                "betType": "701",
+                "withHolding": 10,
+                "seqNo": "148636058c4e25ff80d9594873bc032c",
+                "withHoldingId": "148636058c4e25ff80d9594873bc032c-701",
+                "status": 1,
+                "refund": 10
             },
             {
-                "betType": "304",
-                "withHolding": 400,
-                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
-                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-304",
-                "status": 1
+                "betType": "702",
+                "withHolding": 10,
+                "seqNo": "148636058c4e25ff80d9594873bc032c",
+                "withHoldingId": "148636058c4e25ff80d9594873bc032c-702",
+                "status": 1,
+                "refund": 10
             },
             {
-                "betType": "306",
-                "withHolding": 400,
-                "seqNo": "913cf3db02b84c88d6f9ff47ccf13e06",
-                "withHoldingId": "913cf3db02b84c88d6f9ff47ccf13e06-306",
-                "status": 1
+                "betType": "703",
+                "withHolding": 10,
+                "seqNo": "148636058c4e25ff80d9594873bc032c",
+                "withHoldingId": "148636058c4e25ff80d9594873bc032c-703",
+                "status": 1,
+                "refund": 10
+            },
+            {
+                "betType": "704",
+                "withHolding": 10,
+                "seqNo": "148636058c4e25ff80d9594873bc032c",
+                "withHoldingId": "148636058c4e25ff80d9594873bc032c-704",
+                "status": 1,
+                "refund": 10
+            },
+            {
+                "betType": "705",
+                "withHolding": 10,
+                "seqNo": "148636058c4e25ff80d9594873bc032c",
+                "withHoldingId": "148636058c4e25ff80d9594873bc032c-705",
+                "status": 1,
+                "refund": 10
             }
         ]
     },
     "event": "increaseCredit",
-    "timestamp": 1585295847553,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "aiEajB9mNGvvtsLi7Dwo3sM7PvInmiLdOXEVFn0XIVGTj9CyQCO1NyAlnGdLE5/rvj+sYqMp6x+d2qnPXzEPopOIeYyNPwpH73XTb+MpmnyMWLLl6sZy9ev3ekW5gXE68fD5nXES6y5KzixhUNVsvi3MhPdhsQV//6RKXy2Je3Y="
+    "timestamp": 1657865633424,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "St1gh9zWgnEzluLQNBe813gzjUbF7jBJacSiB/QtjOIvGJSkgJc9Gdx1QnfBm7lAhLv5eJaj5Zp2WFcyBusVFg=="
 }

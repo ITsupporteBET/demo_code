@@ -1,48 +1,95 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": 0,
+    "money": 20,
     "type": 2,
     "platform": 2,
     "currency": "CNY",
-    "seqNo": "08fa47400471e98c92d0afe84d3e6364",
+    "seqNo": "25_15193405_81dc22b82c6424176c9551ece721f94a",
     "detail": {
         "tableCode": "J001",
         "tableType": 25,
         "tableSubType": 0,
         "srcResults": [
-            33,
+            0,
+            51,
+            38,
+            14,
+            12,
             34,
-            45,
-            13,
-            15,
-            36,
-            19,
-            38
+            31,
+            8,
+            9,
+            41,
+            9,
+            30,
+            46,
+            42,
+            29,
+            32,
+            20,
+            43,
+            17,
+            35,
+            33
         ],
         "results": [
             801,
-            606162
+            604162,
+            6051
         ],
         "betList": [
             {
-                "betType": 6061,
-                "betMoney": 1,
-                "seqNo": "sq:162787328352",
+                "betType": 6041,
+                "betMoney": 10,
+                "seqNo": "sq165786562995_15193405_4J0013145862D10594511",
                 "payout": 0,
-                "betId": "sq:162787328352-6061"
+                "validBet": 10,
+                "betId": "sq165786562995_15193405_4J0013145862D10594511-6041"
+            },
+            {
+                "betType": 6051,
+                "betMoney": 10,
+                "seqNo": "sq165786562995_15193405_4J0013145862D10594511",
+                "payout": 20,
+                "validBet": 10,
+                "betId": "sq165786562995_15193405_4J0013145862D10594511-6051"
+            },
+            {
+                "betType": 60401,
+                "betMoney": 10,
+                "seqNo": "sq165786562995_15193405_4J0013145862D10594511",
+                "payout": 0,
+                "validBet": 10,
+                "betId": "sq165786562995_15193405_4J0013145862D10594511-60401"
+            },
+            {
+                "betType": 60402,
+                "betMoney": 10,
+                "seqNo": "sq165786562995_15193405_4J0013145862D10594511",
+                "payout": 0,
+                "validBet": 10,
+                "betId": "sq165786562995_15193405_4J0013145862D10594511-60402"
+            },
+            {
+                "betType": 60412,
+                "betMoney": 10,
+                "seqNo": "sq165786570545_15193405_4J0013145862D10594511",
+                "payout": 0,
+                "validBet": 10,
+                "betId": "sq165786570545_15193405_4J0013145862D10594511-60412"
             }
         ],
-        "roundCode": "J001-4J0013144861075FFC015",
-        "betTime": 1627873283568,
-        "totalBet": 1,
-        "validBet": 1,
-        "payout": 0,
-        "payoutTime": 1627873364154,
+        "roundCode": "J001-4J0013145862D10594511",
+        "betTime": 1657865705507,
+        "totalBet": 50,
+        "validBet": 50,
+        "payout": 20,
+        "payoutTime": 1657865735241,
         "betStopTime": 0
     },
     "event": "increaseCredit",
-    "timestamp": 1627873364198,
-    "sessionToken": "c4e6cb829b1343fab0e6c1d38d21e230",
-    "signature": "W19Wtb99RfII4rIxPHGmxMkA2d1aAwHqtLGF3KgyiGESyshXmSKYgJLLvsrJAXY02sUSousB4f+YZP8TLpdShQ=="
+    "timestamp": 1657865755957,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "ZIj2oj9wZMW0JshdzYt5d3ZO3i2H/CeEXjQUCl7/egJZ2F//+q5OSScUjq7R14zaZEUx2dknx4BNiJuAa5ANJQ=="
 }

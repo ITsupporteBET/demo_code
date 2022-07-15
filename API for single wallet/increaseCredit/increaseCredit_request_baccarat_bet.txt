@@ -1,30 +1,55 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": -1,
+    "money": -60,
     "type": 1,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "7745e84b5d7c037fd34634ae124b9f22",
+    "seqNo": "a26bf98688713a3458301bf649daffe3",
     "detail": {
-        "tableCode": "B18",
+        "tableCode": "BP8",
         "tableType": 1,
         "tableSubType": 0,
-        "roundCode": "B18-200327155100",
-        "betTime": 1585295475223,
+        "roundCode": "BP8-220715140441",
+        "betTime": 1657865095258,
         "betList": [
             {
-                "betId": "7745e84b5d7c037fd34634ae124b9f22-60",
                 "betType": 60,
-                "betMoney": 1
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-60"
+            },
+            {
+                "betType": 63,
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-63"
+            },
+            {
+                "betType": 66,
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-66"
+            },
+            {
+                "betType": 68,
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-68"
+            },
+            {
+                "betType": 82,
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-82"
+            },
+            {
+                "betType": 88,
+                "betMoney": 10,
+                "betId": "a26bf98688713a3458301bf649daffe3-88"
             }
         ],
-        "totalBet": 1,
+        "totalBet": 60,
         "validBet": 0,
-        "brokerageRequired": false
+        "brokerageRequired": true
     },
     "event": "increaseCredit",
-    "timestamp": 1585295475265,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "lkBsw6/HNQHraNnglmVgh5TwQXvVt/jkvSDxK24X3Zmwu+lg5Rdxh3/lQi0P4TiolDaAY5hoZlgXuR4Q5hb8K3cWJYanXsNXdPlDk/olfcDOroziVq4mzCnQZ4PJ2q/zGUmeDNR9JNDdxzlEhZEPp7grrmJw41PAopmDt376cus="
+    "timestamp": 1657865115866,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "ZF9JiGPI28cmwaJWwCjMqbSoECwPmcoz1KGflmOPu7hHCQsPYAdJambh9M+hurY2sWTvwDUku46f7RCnhAlhTw=="
 }

@@ -1,0 +1,29 @@
+{
+    "username": "demo",
+    "channelId": 1,
+    "money": -1,
+    "type": 1,
+    "platform": 2,
+    "currency": "CNY",
+    "seqNo": "15193405|bet|1657865861867|wayi",
+    "detail": {
+        "tableType": 27,
+        "tableCode": "rocket",
+        "roundCode": "wayi-3165786585829",
+        "tableSubType": 0,
+        "betList": [
+            {
+                "betMoney": 1,
+                "betType": 601,
+                "betId": "15193405|bet|1657865861867|wayi-601"
+            }
+        ],
+        "betTime": 1657865861820,
+        "validBet": 0,
+        "totalBet": 1
+    },
+    "event": "increaseCredit",
+    "timestamp": 1657865882227,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "bxtqu0tV6H4OnOaCeNI3mBSz/DrPZbai7HbuNpSrxXoAsee96QlnnQpGFp0BnPsSsvZtRnKpu0210PXypUa4LQ=="
+}

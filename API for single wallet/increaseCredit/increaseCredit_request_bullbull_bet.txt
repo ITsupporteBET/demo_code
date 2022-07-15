@@ -1,48 +1,54 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
     "money": -600,
     "type": 1,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "d1db6442e96d78a6ad075b37a7b0ef5e",
+    "seqNo": "a7a83f703be8f3a6cf03cacd91d158c1",
     "detail": {
-        "tableCode": "NN18",
+        "tableCode": "NNP1",
         "tableType": 8,
         "tableSubType": 0,
-        "roundCode": "NN18-200327155639",
-        "betTime": 1585295818314,
+        "roundCode": "NNP1-220715140941",
+        "betTime": 1657865391233,
         "betList": [
             {
                 "betType": 301,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-301"
             },
             {
                 "betType": 302,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-302"
             },
             {
                 "betType": 303,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-303"
             },
             {
                 "betType": 304,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-304"
             },
             {
                 "betType": 305,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-305"
             },
             {
                 "betType": 306,
-                "betMoney": 100
+                "betMoney": 100,
+                "betId": "a7a83f703be8f3a6cf03cacd91d158c1-306"
             }
         ],
         "totalBet": 600,
         "validBet": 0
     },
     "event": "increaseCredit",
-    "timestamp": 1585295818358,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "bD9ZrBm+zetf/Kjfi5bPY5HaBDrilYpaYcW6RTW78yPcuA12wvqX8TGUn5jq/XtI+q26vNIMeVrkP96+A3Jdj6bYudKP4WdjbTC4iWqVKr8I6rUVkB4Tb37s4kg3KISkHfvtIXavEFBuAwhikxm+OSBtsk8L/koCXg7iCJ5H4lw="
+    "timestamp": 1657865412301,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "ht9JVRxPFe8VfRZtI/YkDFA4jkzWu9JBZ2cWlskY7ZR0F2xcWIMyR6RUL8OjGtIUXqHR+Bj2Hm+EfIfIOQCaRQ=="
 }

@@ -1,29 +1,29 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": -100,
+    "money": -500,
     "type": 1,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "3aecb5713b99d0f4475ea017e697e64a",
+    "seqNo": "e155edc57ee379e3f0e3677d81327857",
     "detail": {
-        "tableCode": "D18",
+        "tableCode": "DL1",
         "tableType": 2,
         "tableSubType": 0,
-        "roundCode": "D18-200327155224",
-        "betTime": 1585295557827,
+        "roundCode": "DL1-220715140533",
+        "betTime": 1657865138646,
         "betList": [
             {
-                "betId": "3aecb5713b99d0f4475ea017e697e64a-10",
                 "betType": 10,
-                "betMoney": 100
+                "betMoney": 500,
+                "betId": "e155edc57ee379e3f0e3677d81327857-10"
             }
         ],
-        "totalBet": 100,
+        "totalBet": 500,
         "validBet": 0
     },
     "event": "increaseCredit",
-    "timestamp": 1585295557850,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "iJUayKmStCGFhLclik9RmcY+/fDnesURix/V2y2qtwsfHATbFCXXE431Iqw/RTP9VXecGgR/RHYc0nWtefv/xsQmpyF1ITVhEviTJc/ILjuR/2hsRuGhpyxomet3cxTmxCAhAngqPiBqmDegq5Rli6SaLRunIUv5VY9WxQKCW3o="
+    "timestamp": 1657865159185,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "CfyykgYdsfKRz0LTe6nCo/CPk9lKSMQoATgx4jKLGYYwqQMAgEKFvxCDKeV8KmzhUYhJqss1TJAZsvOdoP7DNQ=="
 }

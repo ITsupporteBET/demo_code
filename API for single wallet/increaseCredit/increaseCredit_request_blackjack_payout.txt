@@ -1,43 +1,55 @@
 {
-    "username": "apitest01",
+    "username": "demo",
     "channelId": 1,
-    "money": 500,
+    "money": 40,
     "type": 2,
     "platform": 3,
     "currency": "CNY",
-    "seqNo": "f6a1752e0dc62b61b1bc01869b33e77b",
+    "seqNo": "24_15193405_c19eb5c8e939cc6af98affbc2c49f418",
     "detail": {
-        "tableCode": "J102",
+        "tableCode": "J101",
         "tableType": 24,
         "tableSubType": 0,
         "srcResults": [
+            19,
+            11,
+            14,
+            41,
+            1,
+            11,
             48,
-            42,
-            22,
-            47
+            11,
+            21,
+            0,
+            18,
+            4,
+            2,
+            31,
+            21
         ],
         "results": [
-            6011
+            6041
         ],
         "betList": [
             {
-                "betId": "sq:161119575964-6011",
-                "betType": 6011,
-                "betMoney": 200,
-                "seqNo": "sq:161119575964",
-                "payout": 500
+                "betType": 6041,
+                "betMoney": 20,
+                "seqNo": "sq165786578009_15193405_4J1013FE6862D10630017",
+                "payout": 40,
+                "validBet": 20,
+                "betId": "sq165786578009_15193405_4J1013FE6862D10630017-6041"
             }
         ],
-        "roundCode": "J102-4J1023FB286008E56B037",
-        "betTime": 1611195759714,
-        "totalBet": 200,
-        "validBet": 200,
-        "payout": 500,
-        "payoutTime": 1611195764993,
-        "betStopTime": 1611195764993
+        "roundCode": "J101-4J1013FE6862D10630017",
+        "betTime": 1657865780145,
+        "totalBet": 20,
+        "validBet": 20,
+        "payout": 40,
+        "payoutTime": 1657865815842,
+        "betStopTime": 0
     },
     "event": "increaseCredit",
-    "timestamp": 1611195765067,
-    "sessionToken": "3b05542f0c4a2cf1024986fe6ef7ce49",
-    "signature": "hAMvgHuoQPVvS2N5PlEanVeQqlb2wm0/fkQOtye10VjhpvjoTB/EWzVhgyaHqBR3pfNz8ItpvVwuwnLVAky/6ogbyG++QJ6oPnYuLkmLgVqAdrH5cuv3iv12570WFEXih/JN4SN7d5DvUc6yjecsp/qfka8EzAeJGkd8rCeTTAU="
+    "timestamp": 1657865836269,
+    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
+    "signature": "hUO+KeWTsMk8tS82tu/Lo1Q8qwEOU3FQcl14GbvUT0CwIoesWlhLn/TZIny9g6Uc7mMkD9yC0LqxldwR22OEww=="
 }
