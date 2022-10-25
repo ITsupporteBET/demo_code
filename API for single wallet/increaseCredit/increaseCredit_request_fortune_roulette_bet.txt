@@ -1,30 +1,66 @@
 {
-    "username": "apitest01",
-    "channelId": 1,
-    "money": -10,
-    "type": 1,
-    "platform": 3,
-    "currency": "CNY",
-    "seqNo": "882a77cdd745e7ad80570c931d0e80c1",
-    "detail": {
-        "tableCode": "RF1",
-        "tableType": 3,
-        "tableSubType": 1,
-        "roundCode": "RF1-200327155358",
-        "betTime": 1634608590231,
-        "betList": [
-            {
-                "betId": "882a77cdd745e7ad80570c931d0e80c1-200",
-                "betType": 200,
-                "betMoney": 10,
-                "number": "9"
-            }
-        ],
-        "totalBet": 10,
-        "validBet": 0
-    },
-    "event": "increaseCredit",
-    "timestamp": 1634608590231,
-    "sessionToken": "0f8746afc7cdcdff0d77663fa32f679c",
-    "signature": "hlk2RdImmfivgUtofwUT1Qff6sAhm8ICYHbhdEy73yefk2v9UukIfiU5GXnE+/+i/5r0wOyMun49ZVUXQ38o0wFrgNJes2MftB4KOv2EgDCJLZm8Y+j7HTyFRZ8Ug1DUqLfTc0XSvYYFVQgEaTIUCS1ck/JUcxmoxkvC5unaTQw="
+  "username": "demo",
+  "channelId": 1,
+  "money": -140,
+  "type": 1,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "57c8db19acc3b8504c7d20f09c043ada",
+  "detail": {
+    "tableCode": "RC1",
+    "tableType": 3,
+    "tableSubType": 1,
+    "roundCode": "RC1-221025095949",
+    "betTime": 1666663205450,
+    "betList": [
+      {
+        "betType": 200,
+        "betMoney": 20,
+        "number": "33",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-200"
+      },
+      {
+        "betType": 201,
+        "betMoney": 20,
+        "number": "30,33",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-201"
+      },
+      {
+        "betType": 202,
+        "betMoney": 20,
+        "number": "31,32,33",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-202"
+      },
+      {
+        "betType": 203,
+        "betMoney": 20,
+        "number": "29,30,32,33",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-203"
+      },
+      {
+        "betType": 206,
+        "betMoney": 20,
+        "number": "28,29,30,31,32,33",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-206"
+      },
+      {
+        "betType": 207,
+        "betMoney": 20,
+        "number": "3,6,9,12,15,18,21,24,27,30,33,36",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-207"
+      },
+      {
+        "betType": 208,
+        "betMoney": 20,
+        "number": "25,26,27,28,29,30,31,32,33,34,35,36",
+        "betId": "57c8db19acc3b8504c7d20f09c043ada-208"
+      }
+    ],
+    "totalBet": 140,
+    "validBet": 0
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666663161172,
+  "sessionToken": "0cd503584669eda7f001ac23419e4b3c",
+  "signature": "KPUZ1ZBOJHDcO2LMYGUqe/E57JyXmBKbHcVbeOq4kQxj3gA3sDyVrIWj+SMP9+gcHd+lKM6u4Je5Ql5nF94Wqw=="
 }

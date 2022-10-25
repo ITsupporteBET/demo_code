@@ -1,23 +1,29 @@
 {
-    "username": "apitest01",
-    "channelId": 1,
-    "money": -200,
-    "type": 1,
-    "platform": null,
-    "currency": "CNY",
-    "seqNo": "4e0707a90d04a9ae8d90e0321ea145b9",
-    "detail": {
-        "roundCode": "69-1352103992612102144",
-        "tableCode": "69",
-        "tableType": 5,
-        "tableSubType": 0,
-        "betTime": 1611201687307,
-        "validBet": 200,
-        "totalBet": 200,
-        "betStopTime": 0
-    },
-    "event": "increaseCredit",
-    "timestamp": 1611201687518,
-    "sessionToken": "8890f7b193aa3d7823410e2921c1ef23",
-    "signature": "UN4WUzcO+GHn5vYhL17TD2OG4zUcviD8w+HElKVUtEoNgII0WME1F6RPS90VqyXC2e9urlVIou9wfagoHMBvZQAV1MHYpPdiPluZVc74qJxOuOOqAqE5Yt4l4nGmTFAsCgHvY3IiVm+RlnPIUvGEwc32JaGpfIhrNyzSBYngoZo="
+  "username": "demo",
+  "channelId": 1,
+  "money": -5,
+  "type": 1,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "67928964|bet|1666665278669|genesis",
+  "detail": {
+    "tableType": 5,
+    "tableCode": "WHG-0020",
+    "roundCode": "gn-49c4c0e6-8de4-41df-b988-244e843e4856",
+    "tableSubType": 0,
+    "betList": [
+      {
+        "betMoney": 5,
+        "betType": 601,
+        "betId": "67928964|bet|1666665278669|genesis-601"
+      }
+    ],
+    "betTime": 1666665278452,
+    "validBet": 0,
+    "totalBet": 5
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666665234226,
+  "sessionToken": "0beaf5d0f2ab68e8320f50afd526be22",
+  "signature": "T68A33HnCALKYX1L4GZwSbtJ3GBQVAeVSI0GGAK72YYv+kLcPSmTXkdObBYJ1Tbd4R8CoQq8UOpK6GiC026IXg=="
 }

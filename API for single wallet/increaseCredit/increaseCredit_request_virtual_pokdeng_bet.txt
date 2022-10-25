@@ -1,0 +1,28 @@
+{
+  "username": "demo",
+  "channelId": 1,
+  "money": -40,
+  "type": 27,
+  "platform": 0,
+  "currency": "CNY",
+  "seqNo": "67928964|bet|1666667466391|wayigame-27",
+  "detail": {
+    "tableType": 30,
+    "tableCode": "pokdeng",
+    "roundCode": "wg-pokdeng883_166666745788",
+    "tableSubType": 0,
+    "betList": [
+      {
+        "betMoney": 10,
+        "betType": 601
+      }
+    ],
+    "betTime": 1666667466370,
+    "validBet": 0,
+    "totalBet": 10
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666667421951,
+  "sessionToken": "32868930367a556eca5b334133640cc5",
+  "signature": "FwxMyY3MO00VirmAs0Zp0l3PE6XhnpjJCfz1GVpfHRiW4uPC8NdDn6PHHuJlUN+OCCLtObpTTfITJWXJad+Wkw=="
+}

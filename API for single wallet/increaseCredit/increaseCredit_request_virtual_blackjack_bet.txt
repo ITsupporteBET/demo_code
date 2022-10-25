@@ -1,0 +1,29 @@
+{
+  "username": "demo",
+  "channelId": 1,
+  "money": -100,
+  "type": 1,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "sq166666731804_67928964_4J1013FAA86357532F001",
+  "detail": {
+    "tableCode": "J101",
+    "tableType": 24,
+    "tableSubType": 0,
+    "roundCode": "J101-4J1013FAA86357532F001",
+    "betTime": 1666667318087,
+    "betList": [
+      {
+        "betType": 6011,
+        "betMoney": 100,
+        "betId": "sq166666731804_67928964_4J1013FAA86357532F001-6011"
+      }
+    ],
+    "totalBet": 100,
+    "validBet": 100
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666667273667,
+  "sessionToken": "05db79017a3ca82d7a9bbe7962a81417",
+  "signature": "FEPLMfKCLoCF+rbl1cXANYemhWrRM4sd5bh/HLtc2kYSvj2qKObcaOcMpxC+cNpQhB9WHhOjp+XxYM7WnLqS0Q=="
+}

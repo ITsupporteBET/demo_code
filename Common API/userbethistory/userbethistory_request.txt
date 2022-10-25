@@ -1,10 +1,11 @@
 {
-    "pageNum": 1,
-    "pageSize": 10,
-    "startTimeStr": "2020-03-25T16:00:00.000Z",
-    "endTimeStr": "2020-03-26T16:00:00.000Z",
-    "timestamp": 1585212287,
     "channelId": 1,
+    "username": "demo",
+    "timestamp": 1666503623,
+    "pageNum": 1,
+    "pageSize": 5000,
+    "startTimeStr": "2022-10-23 00:00:00",
+    "endTimeStr": "2022-10-24 00:00:00",
     "betStatus": 1,
-    "signature": "DUwaa47GfrWic3o8pXOmqB69CLsxaC8YDkjRdukb0NcpznY/tGPF0fHaX8uE0MPIuyiyOUuPp3HiakxGs1sA0g=="
+    "signature": "L2P1ecTObuchdUrNlPE/Eg4d5XZ2FoN7J3ooxkXJpS21WnCaewvVDVXhhzG5fjDxwDPm0JtzFhMDJucyoRwpdzkYVvDHUoqTuANLPgmZp2O/jtWuzmefO7dEphE/kFuSF3TdxnlWpQNupCIIp+ssUIZdklt6KbJ4xyzPbuSXuyY="
 }

@@ -1,9 +1,45 @@
 {
-    "count": 3,
-    "tableCode": "B1",
+    "count": 30,
+    "tableCode": "BP1",
     "tableType": 1,
     "tableSubType": 0,
     "luzhuList": [
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            68
+        ],
+        [
+            60
+        ],
+        [
+            68
+        ],
         [
             80
         ],
@@ -11,10 +47,91 @@
             68
         ],
         [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            60
+        ],
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
+            80
+        ],
+        [
+            60
+        ],
+        [
             60
         ]
     ],
     "luzhuStat": [
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "draw"
+        ],
+        [
+            "player"
+        ],
+        [
+            "draw"
+        ],
         [
             "banker"
         ],
@@ -22,10 +139,55 @@
             "draw"
         ],
         [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "player"
+        ],
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
+            "banker"
+        ],
+        [
+            "player"
+        ],
+        [
             "player"
         ]
     ],
-    "remainingVisits": 299,
+    "remainingVisits": 499,
     "status": 200,
-    "apiVersion": "1.3.42"
+    "apiVersion": "1.5.75"
 }

@@ -1,69 +1,69 @@
 {
-    "username": "demo",
-    "channelId": 1,
-    "money": -90,
-    "type": 1,
-    "platform": 3,
-    "currency": "CNY",
-    "seqNo": "d6e2ecafb482c3b20a86d04a54815527",
-    "detail": {
-        "tableCode": "CW1",
-        "tableType": 23,
-        "tableSubType": 0,
-        "roundCode": "CW1-220715141103",
-        "betTime": 1657865478312,
-        "betList": [
-            {
-                "betType": 400,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-400"
-            },
-            {
-                "betType": 401,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-401"
-            },
-            {
-                "betType": 402,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-402"
-            },
-            {
-                "betType": 403,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-403"
-            },
-            {
-                "betType": 404,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-404"
-            },
-            {
-                "betType": 405,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-405"
-            },
-            {
-                "betType": 406,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-406"
-            },
-            {
-                "betType": 407,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-407"
-            },
-            {
-                "betType": 408,
-                "betMoney": 10,
-                "betId": "d6e2ecafb482c3b20a86d04a54815527-408"
-            }
-        ],
-        "totalBet": 90,
-        "validBet": 0
-    },
-    "event": "increaseCredit",
-    "timestamp": 1657865498847,
-    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
-    "signature": "PCbLUNZP/FPhZ9wsZWa6YRavet1FgYh8gZbIkFNw0njjS+XRJql6vTba4wi5S8BjH7CEPzGNL2e4spElla5pBQ=="
+  "username": "demo",
+  "channelId": 1,
+  "money": -90,
+  "type": 1,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "2b18d28a3254ec98001e790813ed76d0",
+  "detail": {
+    "tableCode": "CW1",
+    "tableType": 23,
+    "tableSubType": 0,
+    "roundCode": "CW1-221025100255",
+    "betTime": 1666663393317,
+    "betList": [
+      {
+        "betType": 400,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-400"
+      },
+      {
+        "betType": 401,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-401"
+      },
+      {
+        "betType": 402,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-402"
+      },
+      {
+        "betType": 403,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-403"
+      },
+      {
+        "betType": 404,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-404"
+      },
+      {
+        "betType": 405,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-405"
+      },
+      {
+        "betType": 406,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-406"
+      },
+      {
+        "betType": 407,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-407"
+      },
+      {
+        "betType": 408,
+        "betMoney": 10,
+        "betId": "2b18d28a3254ec98001e790813ed76d0-408"
+      }
+    ],
+    "totalBet": 90,
+    "validBet": 0
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666663349141,
+  "sessionToken": "0cd503584669eda7f001ac23419e4b3c",
+  "signature": "WaIaisxrkC7pFZrt60gWk5CtyXLUJVeND9kmwNn50pVO3aJQtPiQR/GV+l14bLFnQVemzTrIHCzdzGFcXux07g=="
 }

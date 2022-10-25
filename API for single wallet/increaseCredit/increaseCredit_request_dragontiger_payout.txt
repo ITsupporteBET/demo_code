@@ -1,47 +1,92 @@
 {
-    "username": "demo",
-    "channelId": 1,
-    "money": 0,
-    "type": 2,
-    "platform": 3,
-    "currency": "CNY",
-    "seqNo": "0486c467889679cf9fdb54bbffc57de8",
-    "detail": {
-        "tableCode": "DL1",
-        "tableType": 2,
-        "tableSubType": 0,
-        "srcResults": [
-            39,
-            15
-        ],
-        "results": [
-            11,
-            13,
-            15,
-            16,
-            19
-        ],
-        "betList": [
-            {
-                "betType": 10,
-                "betMoney": 500,
-                "seqNo": "e155edc57ee379e3f0e3677d81327857",
-                "payout": 0,
-                "odds": 1,
-                "validBet": 500,
-                "betId": "e155edc57ee379e3f0e3677d81327857-10"
-            }
-        ],
-        "roundCode": "DL1-220715140533",
-        "betTime": 1657865138671,
-        "totalBet": 500,
-        "validBet": 500,
+  "username": "demo",
+  "channelId": 1,
+  "money": 38,
+  "type": 2,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "3be2ce689645da1518aa23832a5201ce",
+  "detail": {
+    "tableCode": "DL1",
+    "tableType": 2,
+    "tableSubType": 0,
+    "srcResults": [
+      25,
+      45
+    ],
+    "results": [
+      11,
+      12,
+      15,
+      17,
+      18
+    ],
+    "betList": [
+      {
+        "betType": 10,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
         "payout": 0,
-        "payoutTime": 1657865167946,
-        "betStopTime": 1657865157601
-    },
-    "event": "increaseCredit",
-    "timestamp": 1657865188416,
-    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
-    "signature": "UgSsmvRwLw2PEeq/lqUr5JzHV1DriFUpufRlkDLA66om24eSLD24Q7YfMwctJfY5DYJaNi3xAY/dVdRKXmlH4w=="
+        "odds": 1,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-10"
+      },
+      {
+        "betType": 12,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+        "payout": 17.5,
+        "odds": 0.75,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-12"
+      },
+      {
+        "betType": 15,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+        "payout": 20.5,
+        "odds": 1.05,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-15"
+      },
+      {
+        "betType": 16,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+        "payout": 0,
+        "odds": 0.9,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-16"
+      },
+      {
+        "betType": 19,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+        "payout": 0,
+        "odds": 0.9,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-19"
+      },
+      {
+        "betType": 68,
+        "betMoney": 10,
+        "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+        "payout": 0,
+        "odds": 8,
+        "validBet": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-68"
+      }
+    ],
+    "roundCode": "DL1-221025095547",
+    "betTime": 1666662958936,
+    "totalBet": 60,
+    "validBet": 60,
+    "payout": 38,
+    "payoutTime": 1666662987719,
+    "betStopTime": 1666662971185
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666662943381,
+  "sessionToken": "0cd503584669eda7f001ac23419e4b3c",
+  "signature": "JPN8elCnf572wX1dYKkAVaxgOpxDWTpHEuHRO9+LS4YIo4+0y3Yp+6FvTteLAQh+Uc0qCiEA5m09cFBXE9R75Q=="
 }

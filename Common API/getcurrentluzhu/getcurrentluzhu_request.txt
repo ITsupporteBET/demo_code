@@ -1,0 +1,8 @@
+{
+    "channelId": 1,
+    "timestamp": 1666505663,
+    "tableType": 1,
+    "tableSubType": 0,
+    "tableCode": "BP1",
+    "signature": "HPz5jNRcbWnCaBT+AOXNDrFpIHJL6VT+xWD9XM8qKVkX48k59/KTHYKc7sGEvAfV6cBKCktnjaoGh/xjSxKV9ilu87BHIorR+hCbPwl60eVHVTAfRUeOXgaP+YrBuF18+816B8qQ9XH3c+RmLyhKIasEIKsZ7B+nyj9DpHyMEok="
+}

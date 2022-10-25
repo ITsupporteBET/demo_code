@@ -1,11 +1,12 @@
 {
-    "count": 21,
-    "totalBet": 4301.5,
-    "totalPayout": 3195,
-    "totalWithholding": 2000,
-    "startTime": 1560182400000,
-    "endTime": 1560268800000,
-    "remainingVisits": 299,
+    "count": 11,
+    "totalBet": 6841,
+    "totalPayout": 8781,
+    "totalWithholding": 3200,
+    "totalBalance": -1260,
+    "startTime": 1666454400000,
+    "endTime": 1666540800000,
+    "remainingVisits": 499,
     "status": 200,
-    "apiVersion": "1.3.91"
+    "apiVersion": "1.5.75"
 }

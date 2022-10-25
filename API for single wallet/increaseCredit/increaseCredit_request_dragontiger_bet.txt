@@ -1,29 +1,54 @@
 {
-    "username": "demo",
-    "channelId": 1,
-    "money": -500,
-    "type": 1,
-    "platform": 3,
-    "currency": "CNY",
-    "seqNo": "e155edc57ee379e3f0e3677d81327857",
-    "detail": {
-        "tableCode": "DL1",
-        "tableType": 2,
-        "tableSubType": 0,
-        "roundCode": "DL1-220715140533",
-        "betTime": 1657865138646,
-        "betList": [
-            {
-                "betType": 10,
-                "betMoney": 500,
-                "betId": "e155edc57ee379e3f0e3677d81327857-10"
-            }
-        ],
-        "totalBet": 500,
-        "validBet": 0
-    },
-    "event": "increaseCredit",
-    "timestamp": 1657865159185,
-    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
-    "signature": "CfyykgYdsfKRz0LTe6nCo/CPk9lKSMQoATgx4jKLGYYwqQMAgEKFvxCDKeV8KmzhUYhJqss1TJAZsvOdoP7DNQ=="
+  "username": "demo",
+  "channelId": 1,
+  "money": -60,
+  "type": 1,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "615dafa2cc527bd22b8fc5e2bfda5aeb",
+  "detail": {
+    "tableCode": "DL1",
+    "tableType": 2,
+    "tableSubType": 0,
+    "roundCode": "DL1-221025095547",
+    "betTime": 1666662958908,
+    "betList": [
+      {
+        "betType": 10,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-10"
+      },
+      {
+        "betType": 12,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-12"
+      },
+      {
+        "betType": 15,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-15"
+      },
+      {
+        "betType": 16,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-16"
+      },
+      {
+        "betType": 19,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-19"
+      },
+      {
+        "betType": 68,
+        "betMoney": 10,
+        "betId": "615dafa2cc527bd22b8fc5e2bfda5aeb-68"
+      }
+    ],
+    "totalBet": 60,
+    "validBet": 0
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666662914579,
+  "sessionToken": "0cd503584669eda7f001ac23419e4b3c",
+  "signature": "PrmQ9TMC6ShLoL6vyie1vWTpPSKLsjLaTUjql9BV4hlqTKgItXTxOjH0CFX6MP5936PZ87+IS6ozEhhf3Cwu3w=="
 }

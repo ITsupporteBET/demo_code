@@ -1,0 +1,63 @@
+{
+  "username": "demo",
+  "channelId": 1,
+  "money": 400,
+  "type": 2,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "24_67928964_2c126b6aaf585c81a0bcad79ce88a46f",
+  "detail": {
+    "tableCode": "J101",
+    "tableType": 24,
+    "tableSubType": 0,
+    "srcResults": [
+      33,
+      26,
+      29,
+      19,
+      14,
+      38,
+      25,
+      48,
+      43,
+      19,
+      40,
+      29,
+      7,
+      10,
+      38
+    ],
+    "results": [
+      6011
+    ],
+    "betList": [
+      {
+        "betType": 6011,
+        "betMoney": 100,
+        "seqNo": "sq166666731804_67928964_4J1013FAA86357532F001",
+        "payout": 400,
+        "validBet": 100,
+        "betId": "sq166666731804_67928964_4J1013FAA86357532F001-6011"
+      },
+      {
+        "betType": 60112,
+        "betMoney": 100,
+        "seqNo": "sq166666733632_67928964_4J1013FAA86357532F001",
+        "payout": 0,
+        "validBet": 100,
+        "betId": "sq166666733632_67928964_4J1013FAA86357532F001-60112"
+      }
+    ],
+    "roundCode": "J101-4J1013FAA86357532F001",
+    "betTime": 1666667336364,
+    "totalBet": 200,
+    "validBet": 200,
+    "payout": 400,
+    "payoutTime": 1666667344667,
+    "betStopTime": 0
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666667300289,
+  "sessionToken": "05db79017a3ca82d7a9bbe7962a81417",
+  "signature": "aDJuF1zZ+GyRHej5rseAFdVvK6RnxoCcK9iooTT1Stvxxi+52TBL3bAccSnEQ9wIqQQ6eKcBId5ZzZIZZaKeqA=="
+}

@@ -1,5 +1,5 @@
 {
-    "launchUrl": "https://0a801f.reb231.com/h5/0a801f",
+    "launchUrl": "https://ynwh8w.win1688.info/h5/ynwh8w",
     "status": 200,
-    "apiVersion": "1.5.63"
+    "apiVersion": "1.5.75"
 }

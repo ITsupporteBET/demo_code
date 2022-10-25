@@ -1,5 +1,10 @@
 {
     "channelId": 1,
-    "timestamp": 1585635430607,
-    "signature": "ghD+lcoYdWMvSOxrDclCYqgMtlNecVvtEPx5I0FcCMSaW3sEASf6fhpZFcGI8N4UZqN/cDCUmnYUjGXCAs4nhKWcgy3OC6d2G5CAm/BX8mlM3cwfq5gEANKVhof6EnCKH0zwbW95bNFBhDDH2aCUUyxro9bRcfKVFJ72M70CUPc="
+    "username": "demo",
+    "timestamp": 1666503526,
+    "pageNum": 1,
+    "pageSize": 5000,
+    "startTimeStr": "2022-10-23 00:00:00",
+    "endTimeStr": "2022-10-24 00:00:00",
+    "signature": "hIaTtSIWhP34/O2I3o23vcJK2iVHOpV5TfqjHrtkE3CPgFti4wD9qPhrY9AgQB3+h0hSF+IU2rv/Xg/VjQCyqCuIezh34Bn6xEXkdHZu1eeQfqZMijlov5d6DfKY/Wfz2wgihdw34fIXBByrMLK2TUaBXIdlPCskp/vdk1KtYHc="
 }

@@ -1,6 +1,6 @@
 {
     "channelId": 1,
-    "timestamp": 1657856025,
+    "timestamp": 1666504201,
     "currency": "CNY",
-    "signature": "cbgzxxah5+cffQK0RhhEPYLlr5V01yo4TQhItEtVkbyEstvpYrG34gOW9cQW55JAOiaJDWVAdjonCCPuE1saIw=="
-}
+    "signature": "jugY9vc7wn9jYSgyHjZpexT2SwuPLuTrEddImkRVpfN9O2XWuRNXRptNgomlK7Pv7wGpwG6tO3Vu+yLtD/+WGoswdjQLNGsj2cUNWEnJu2niakdAQmNdjJF505MCzBfDK5SuqogoDev9/J514kKRMEyz9v706XCtq8DR17tVdXI="
+} 

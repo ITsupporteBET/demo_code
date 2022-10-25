@@ -1,96 +1,115 @@
 {
-    "username": "demo",
-    "channelId": 1,
-    "money": 19.4,
-    "type": 2,
-    "platform": 3,
-    "currency": "CNY",
-    "seqNo": "78e937f36d93e8d7e0e7b3808f0a1daa",
-    "detail": {
-        "tableCode": "BP8",
-        "tableType": 1,
-        "tableSubType": 0,
-        "srcResults": [
-            47,
-            16,
-            35,
-            10,
-            31,
-            null
-        ],
-        "brokerageRequired": true,
-        "results": [
-            80,
-            70,
-            82,
-            62
-        ],
-        "betList": [
-            {
-                "betType": 60,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 0,
-                "odds": 1,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-60"
-            },
-            {
-                "betType": 63,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 0,
-                "odds": 0.9,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-63"
-            },
-            {
-                "betType": 66,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 0,
-                "odds": 11,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-66"
-            },
-            {
-                "betType": 68,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 0,
-                "odds": 8,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-68"
-            },
-            {
-                "betType": 82,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 19.4,
-                "odds": 0.94,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-82"
-            },
-            {
-                "betType": 88,
-                "betMoney": 10,
-                "seqNo": "a26bf98688713a3458301bf649daffe3",
-                "payout": 0,
-                "odds": 11,
-                "validBet": 10,
-                "betId": "a26bf98688713a3458301bf649daffe3-88"
-            }
-        ],
-        "roundCode": "BP8-220715140441",
-        "betTime": 1657865095285,
-        "totalBet": 60,
-        "validBet": 60,
+  "username": "demo",
+  "channelId": 1,
+  "money": 73.8,
+  "type": 2,
+  "platform": 3,
+  "currency": "CNY",
+  "seqNo": "1cf07272246148475e9260cfa745a8a5",
+  "detail": {
+    "tableCode": "BP1",
+    "tableType": 1,
+    "tableSubType": 0,
+    "srcResults": [
+      11,
+      30,
+      null,
+      4,
+      6,
+      44
+    ],
+    "brokerageRequired": true,
+    "results": [
+      60,
+      70,
+      82,
+      63,
+      61
+    ],
+    "betList": [
+      {
+        "betType": 60,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 20,
+        "odds": 1,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-60"
+      },
+      {
+        "betType": 63,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 19,
+        "odds": 0.9,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-63"
+      },
+      {
+        "betType": 66,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 0,
+        "odds": 11,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-66"
+      },
+      {
+        "betType": 68,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 0,
+        "odds": 8,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-68"
+      },
+      {
+        "betType": 70,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 15.4,
+        "odds": 0.54,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-70"
+      },
+      {
+        "betType": 82,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
         "payout": 19.4,
-        "payoutTime": 1657865118309,
-        "betStopTime": 1657865101476
-    },
-    "event": "increaseCredit",
-    "timestamp": 1657865138801,
-    "sessionToken": "9a538d67e4447d5b1120f4504e74aed0",
-    "signature": "SmAl5pCGtbzyc8RAFSufFGOtliKMYPZosH3E3CaqaySQwjndtQoqnSZFK42hwpIOd1EOXI9zEoR+uBXChiXXdQ=="
+        "odds": 0.94,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-82"
+      },
+      {
+        "betType": 86,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 0,
+        "odds": 20,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-86"
+      },
+      {
+        "betType": 88,
+        "betMoney": 10,
+        "seqNo": "6532bfbf3e1e7f49c7d291ddffc19fd1",
+        "payout": 0,
+        "odds": 11,
+        "validBet": 10,
+        "betId": "6532bfbf3e1e7f49c7d291ddffc19fd1-88"
+      }
+    ],
+    "roundCode": "BP1-221025093603",
+    "betTime": 1666661778734,
+    "totalBet": 80,
+    "validBet": 80,
+    "payout": 73.8,
+    "payoutTime": 1666661806472,
+    "betStopTime": 1666661788206
+  },
+  "event": "increaseCredit",
+  "timestamp": 1666661762130,
+  "sessionToken": "0cd503584669eda7f001ac23419e4b3c",
+  "signature": "LJTJDFzCma23WhJCb3DqTamAUtrlLnVUfvK4FXggBT8gjiV8RqYy1PUoa41n7GdkLDeitYS/gaV9wC/PAY0/fA=="
 }

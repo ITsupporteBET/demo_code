@@ -1,5 +1,5 @@
 {
-    "username": "apitest01",
     "channelId": 1,
-    "signature": "FVXroBHYjnRqSJwbYYsfaV9RduMVg1L/5KAPnFW7iSgDSKF2iZrVW+xl9F3oKypUwgjm38JSCHgQWUrFxI0QGA=="
+    "username": "demo",
+    "signature": "kxA2Ud7AAmQtIx8gs5/nMbzL9ifvVCPmXyK7D41hK/mxh4ylFwWkoHLA0IJCBk3OqOMJOyj8YhL/PUmK8ceDZ9mJC8+5I4RAGpgebqqHeW+6txaJIa1f9S4QdjErZDf+mMTnEUaVwkNU9Dw1MO94hFZPjqo1Qwmbdu4W6BJvI/A="
 }

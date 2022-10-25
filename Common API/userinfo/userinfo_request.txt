@@ -1,6 +1,6 @@
 {
     "channelId": 1,
-    "username": "apitest01",
-    "timestamp": 1560223311382,
-    "signature": "P9KqJsCTP1J8CifAK/Q0JC6dhLfZjxY869LBV0+D+KcFmZFuVjRrqSpWdqBtB0r/pU7dH48gQv63/y97+ISEzw=="
+    "username": "demo",
+    "timestamp": 1666503161,
+    "signature": "OVi3pQJIsDVS28qJD5CmW5JKPlzqam33XC9Pm1JdN/BpJ1S/9ZQZiCMIydrtraXnr6XCuSFhG2rV0aCnh12X4K25Ouv8NkQL+CnpHvH4YAAvah6Zs/ZNxGilh1OrDjkkU3Vmwr6yC1eLgKhATjFyV+4IUB/ANgWV/YJuVk5eGWI="
 }

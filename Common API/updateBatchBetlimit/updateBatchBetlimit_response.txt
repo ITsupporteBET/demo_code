@@ -10,13 +10,16 @@
         8,
         9,
         10,
-        11
+        11,
+        12
     ],
     "userList": [
-        "apitest01",
-        "apitest"
+        "apitest001",
+        "apitest002",
+        "apitest003",
+        "apitest004"
     ],
     "channelId": 1,
     "status": 200,
-    "apiVersion": "1.5.63"
+    "apiVersion": "1.5.75"
 }
